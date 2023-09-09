@@ -135,14 +135,14 @@ Para este primer Sprint, se utilizó herramientas como Github, y Visual Code par
 - La creación de un prototipo de alta fidelidad no permite ver la aplicación en su totalidad desde una perspectiva de un usuario consumidor, que además nos ayudó a mejorar. También, nos permitió recolectar comentarios de los usuarios entrevistados para poder realizar los cambios necesarios y ofrecer una mejor experiencia para los usuarios.
 
 
-#Video About-the-Team
+# Video About-the-Team
 
 Link:
 
 
 
 
-#BIBLIOGRAFÍA
+# BIBLIOGRAFÍA
 
 Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wp-content/uploads/2011/04/diagnostico-raee.pdf  [Consulta: 27/08/2023]
 
