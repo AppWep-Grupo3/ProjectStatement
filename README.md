@@ -137,7 +137,7 @@ Para este primer Sprint, se utilizó herramientas como Github, y Visual Code par
 
 # Video About-the-Team
 
-Link:
+Link:https://youtu.be/6SEKvJFTB6E
 
 
 
