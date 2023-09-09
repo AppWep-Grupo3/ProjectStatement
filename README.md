@@ -1,3 +1,79 @@
+<div align="center">
+
+![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
+
+<h1>Universidad Peruana de Ciencias Aplicadas</h1>
+
+**Ingeniería de Software**
+
+Ciclo 2023-02
+
+<h2>Aplicaciones Web</h2>
+
+<h3>TB1 REPORT</h3>
+
+Sección SV51
+
+**Profesor:** Jaime Luis Escobar Aguirre
+
+**_INFORME DE TRABAJO FINAL - TB1_**
+
+**Startup:** XCompany
+
+**Producto:** XComponent
+
+**Integrantes:**
+
+Rodolfo, Giakomo Causso  <br>
+Ávalos Santos, Anthony Piero <br>
+Martinez Carbajal, Mariela <br>
+Vargas Quispe, Manuel Alexis <br>
+Tasayco, Javier Sebastian
+
+**Link al video de exposición:** 
+
+**Setiembre del 2023**
+
+</div>
+
+<br>
+
+# Registro de Versiones del Informe
+
+| Versión | Fecha | Autor | Descripción de la modificación |
+| ------- | ----- | ----- | ------------------------------ |
+|   1.0      |   2023-09-09    | Todo el equipo mencionado      |       La resolución de todo el trabajo, enfocándonos en el publico objetivo y a sus necesidades.                  |
+|         |       |       |                                |
+
+---
+
+# Project Report Collaboration Insights
+
+Link de repositorio Github: https://github.com/AppWep-Grupo3/Grupo02
+
+---
+
+# Contenido
+
+## Tabla de contenidos
+
+---
+
+# Student Outcome
+
+El curso contribuye al cumplimiento del Student Outcome ABET:
+
+ABET – EAC - Student Outcome 5
+
+Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 5.
+
+
+[![image.png](https://i.postimg.cc/zvQcmgw9/image.png)](https://postimg.cc/dZ8BrDxB)
+
 
 ---
 # Capitulo 1 : Introducción  
