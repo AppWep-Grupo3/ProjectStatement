@@ -16,7 +16,7 @@ Finalmente, nos enorgullece destacar nuestra labor social integral y nuestro com
 * Nombres y Apellidos: Anthony Piero Avalos Santos
 Carrera: Ingeniería de Software     
 Descripción: Las habilidades que poseo pueden ayudar mucho al equipo, puesto que mi capacidad comunicativa, organización y disciplina pueden hacer que logremos realizar un excelente trabajo. Además, mis conocimientos en redacción pueden hacer que este proyecto se realice y presente sin errores.    
-Fotografia de Perfil:
+Fotografia de Perfil:    
 [![faceAnthony.jpg](https://i.postimg.cc/FRwpPZsJ/Imagen1.jpg)](https://postimg.cc/R6QwhwtM)
 
 * Nombres y Apellidos: Giakomo Causso Rodolfo Mariano   
