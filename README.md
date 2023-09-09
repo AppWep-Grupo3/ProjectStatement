@@ -142,3 +142,75 @@ En esta sección evaluaremos e identificamos las tareas que tiene nuestro usuari
 
 ### 2.3.5. As-is Scenario Mapping.
 [![Aspose-Words-484bc088-4da9-4691-834c-f7796c14b551-017.png](https://i.postimg.cc/L59dTTDV/Aspose-Words-484bc088-4da9-4691-834c-f7796c14b551-017.png)](https://postimg.cc/8J0nkLqF)
+
+# CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
+
+### 5.1. Software Configuration Management. 
+### 5.1.1. Software Development Environment Configuration.
+En nuestra startup, hemos establecido cuidadosamente la configuración de nuestro entorno de desarrollo de software para garantizar una eficiente colaboración y desarrollo de nuestras aplicaciones. Aquí están las principales herramientas y configuraciones que utilizamos:
+
+Entornos de Desarrollo Integrados (IDEs): Utilizamos principalmente dos IDEs para el desarrollo de software. En primer lugar, Visual Studio Code, que proporciona un entorno de desarrollo altamente personalizable y esencial para nuestros desarrolladores frontend. Puedes encontrarlo en Visual Studio Code.
+
+Herramientas de Colaboración: En cuanto a herramientas de colaboración de código, confiamos en GitHub, que es ampliamente utilizado en la comunidad de desarrollo.
+
+Diseño de Bases de Datos y Diagramas: Para el diseño de bases de datos y la creación de diagramas diversos, utilizamos LucidChart y Vertabelo. Estas herramientas nos ayudan a visualizar y planificar nuestras estructuras de datos y flujos de trabajo.
+Esta configuración de nuestro entorno de desarrollo de software es esencial para garantizar la eficiencia, la colaboración efectiva y la entrega exitosa de nuestros productos y servicios.
+
+### 5.1.2. Source Code Management. Giakomo
+Nosotros usaremos el GitHub para poder tener una mejor organización y control del desarrollo de nuestro proyecto, de la cual tiene como nombre como “AppWep-Grupo3”. En lo siguiente se adjuntara enlaces correspondiente al repositorio.
+
+|Solución|Nombre del repositorio|Enlace|
+| :-: | :-: | :-: |
+|Landing Page|XComponent|https://github.com/AppWep-Grupo3/Grupo02|
+
+![](img/source.png)
+
+## 5.1.3. Source Code Style Guide & Conventions. Giakomo
+En nuestra startup, establecemos rigurosas convenciones y estándares de desarrollo para garantizar un proceso de desarrollo coherente y eficiente. A continuación, detallamos nuestras prácticas y directrices:
+
+Convenciones de Nomenclatura: Para mantener una uniformidad en el código, seguimos las convenciones básicas de camelCase y UpperCamelCase según corresponda. Además, tomamos como referencia la guía de estilo de Google para programar en HTML y CSS (Google HTML/CSS Style Guide) para asegurar una estructura clara y legible en nuestros archivos HTML y CSS.
+
+Control de versiones: Para el control de versiones, aplicamos el enfoque de conventional commits tanto en la creación de ramas como en la realización de commits. Por ejemplo:
+
+Rama: feat/main-component
+Commit: feat(ui): agregado el template del componente principal
+Gestión de Ramas: Utilizamos el modelo de GitFlow para la creación de ramas. Esto significa que seguimos una estructura de ramas que incluye características (feature branches) y correcciones (hotfixes), todas basadas en nuestra rama principal, que es la rama "main". Esta rama principal contiene la versión de la aplicación en producción y se actualiza mediante la integración con Cloudflare Pages, lo que garantiza despliegues automáticos y eficientes.
+
+Estas prácticas y directrices son fundamentales para mantener un código limpio, coherente y bien gestionado a medida que desarrollamos nuestras aplicaciones y servicios. Además, nos ayudan a mantener una trazabilidad clara de las actualizaciones y mejoras en nuestro proyecto.
+
+### 5.1.4. Software Deployment Configuration. Giakomo
+Para tener una óptima visualización de la elaboración de nuestro Landing Page usamos la opción de GitHub llamado GitHub Page para así mostrar cada commit del Landing Page ya desplegado:
+1. Una vez que todas las ramas estén actualizadas, se procede a ingresar a Github, luego acceder al repositorio del proyecto y seguidamente dar clic en “Settings”:
+
+![](img/deployment.png)
+
+2. Una vez dentro de Settings, buscar la opción “Pages” en el  menú lateral:
+
+![](img/deployment1.png)
+
+3. Seleccionar la rama principal, luego dar clic en “Save”, y GitHub comenzara el proceso de deploy:
+
+![](img/deployment2.png)
+
+4. Una vez que todo el proceso de deploy haya terminado, se mostrara al inicio un mensaje de confirmación junto con el link del Landing Page desplegado:
+
+![](img/deployment3.png)
+
+5. Finalmente, se podrá acceder a la pagina desde el enlace que se generó anteriormente:
+
+![](img/deployment4.png)
+
+Enlace de nuestro Landing Page: https://appwep-grupo3.github.io/Grupo02/ 
+
+## 5.2. Landing Page, Services & Applications Implementation. 
+### 5.2.1. Sprint 1
+### 5.2.1.1. Sprint Planning 1. 
+
+
+
+
+
+
+
+
+
