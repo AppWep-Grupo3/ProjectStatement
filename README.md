@@ -12,18 +12,17 @@ En un mercado competitivo como el nuestro, es crucial destacar. Nuestro logotipo
 [![Captura-de-pantalla-2023-09-09-183944.png](https://i.postimg.cc/DzTybZLb/Captura-de-pantalla-2023-09-09-183944.png)](https://postimg.cc/zyx1sqdJ)
 
 **Colores del General Style Guidelines**
-[url=https://postimg.cc/8swJd1YG][img]https://i.postimg.cc/8swJd1YG/Captura-de-pantalla-2023-09-09-204958.png[/img][/url]
-
+[![Captura-de-pantalla-2023-09-09-204958.png](https://i.postimg.cc/pXMfHrYm/Captura-de-pantalla-2023-09-09-204958.png)](https://postimg.cc/8swJd1YG)
 
 **Tipo de fuente del General Style Guidelines**
-img
+[![Captura-de-pantalla-2023-09-09-205004.png](https://i.postimg.cc/MH2Qq3BC/Captura-de-pantalla-2023-09-09-205004.png)](https://postimg.cc/nj2z1k02)
 
 **4.1.2. Web Style Guidelines.**
 Lo siguiente corresponde a la guía para la versión web. Se puede visualizar con mejor detalle en el siguiente link:
 [https://www.figma.com/file/O6WxMvh0wV159MV9VHNwbQ/Untitled?type=design&node-id=0-1&mode=design&t=DTikcpMaQQS8KLgC-0](https://www.figma.com/file/O6WxMvh0wV159MV9VHNwbQ/Untitled?type=design&node-id=0-1&mode=design&t=DTikcpMaQQS8KLgC-0)
 
 *Tipografía utilizada en el General Style Guidelines*
-img
+[![Captura-de-pantalla-2023-09-09-205011.png](https://i.postimg.cc/T3YWdDy3/Captura-de-pantalla-2023-09-09-205011.png)](https://postimg.cc/yktNnWXM)
 
 *Search Interactive Elements del General Style Guidelines*
 img
