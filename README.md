@@ -199,7 +199,7 @@ Nuestro segmento objetivo serán aquellas personas de ambos géneros desde la ma
 
 Estos productos usados serán reparados (de ser necesario) y donados a instituciones y entidades educativas que carecen de este apoyo. Ayudando así al medio ambiente, puesto que estos productos usados ya no terminarán en la basura. Según el Ministerio del Ambiente, en nuestro país, más del 3% de los componentes de computadora son residuos contaminantes. Es por eso que nuestra empresa ayudará a reducir estas cifras y brindar un apoyo a las personas que lo necesitan para fines académicos.
 
-======
+
 
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores.
@@ -346,7 +346,7 @@ En esta sección evaluaremos e identificamos las tareas que tiene nuestro usuari
 ### 2.3.5. As-is Scenario Mapping.
 [![Aspose-Words-484bc088-4da9-4691-834c-f7796c14b551-017.png](https://i.postimg.cc/L59dTTDV/Aspose-Words-484bc088-4da9-4691-834c-f7796c14b551-017.png)](https://postimg.cc/8J0nkLqF)
 
-========
+
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
@@ -412,7 +412,6 @@ Facilitar la obtencion de componentes y perifericos de computadora. Ademas, cont
 | 21            | US21 - Probar las funciones del aplicativo web | Como visitante quiero tener un acercamiento al funcionamiento del aplicativo web | 1 |
 | 22            | US22 - Registro e inicio de sesión desde la landing page | Como visitante quiero registrarme o iniciar sesión, una vez inspeccionado el landing page para probar las funcionalidades del aplicativo web | 2 |
 
-=========
 
 # Capítulo IV: Product Design
 
@@ -647,7 +646,7 @@ Inspeccionar imagen en Vertabelo: [enlace](https://my.vertabelo.com/doc/ctEW8pkl
 
 [![Captura-de-pantalla-2023-09-09-205532.png](https://i.postimg.cc/brsBfJQC/Captura-de-pantalla-2023-09-09-205532.png)](https://postimg.cc/8fgHhTXM)
 
-=========
+
 
 # CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 ## 5.1. Software Configuration Management. 
@@ -668,9 +667,9 @@ Nosotros usaremos el GitHub para poder tener una mejor organización y control d
 | :-: | :-: | :-: |
 |Landing Page|XComponent|https://github.com/AppWep-Grupo3/Grupo02|
 
-[url=https://postimg.cc/87GKWHLJ][img]https://i.postimg.cc/87GKWHLJ/source.png[/img][/url]
+[![source.png](https://i.postimg.cc/MpMhC3TD/source.png)](https://postimg.cc/87GKWHLJ)
 
-## 5.1.3. Source Code Style Guide & Conventions. Giakomo
+## 5.1.3. Source Code Style Guide & Conventions. 
 En nuestra startup, establecemos rigurosas convenciones y estándares de desarrollo para garantizar un proceso de desarrollo coherente y eficiente. A continuación, detallamos nuestras prácticas y directrices:
 
 Convenciones de Nomenclatura: Para mantener una uniformidad en el código, seguimos las convenciones básicas de camelCase y UpperCamelCase según corresponda. Además, tomamos como referencia la guía de estilo de Google para programar en HTML y CSS (Google HTML/CSS Style Guide) para asegurar una estructura clara y legible en nuestros archivos HTML y CSS.
