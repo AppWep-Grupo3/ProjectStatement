@@ -138,8 +138,6 @@ El problema es relevante en el mercado de componentes y periféricos tecnológic
 **¿A quién se le presenta el problema?¿Cual es tu público objetivo? (Who - Quién)**
 El público objetivo son personas mayores de edad que necesitan componentes y periféricos para sus PC/laptops a precios módicos. También son personas que tienen productos similares en desuso que desean intercambiar como parte de pago. Además, se busca impactar positivamente en comunidades menos privilegiadas a través de donaciones a ONGs.
 
-[url=https://postimg.cc/87GKWHLJ][img]https://i.postimg.cc/87GKWHLJ/source.png[/img][/url]
-=======
 **¿Por qué sucede el problema?¿Qué situación ocasiona el problema? (Why - Por qué)**
 El problema ocurre debido a la falta de opciones asequibles en el mercado y al crecimiento de desechos electrónicos, lo que afecta tanto la economía como el medio ambiente.
 
@@ -160,40 +158,48 @@ Según el informe Global E-waste Monitor 2020, publicado por la ONU, el año 201
 #### 1.2.2.2 Lean UX Assumptions  
 a. ***Business Assumptions***
 
-[![deployment.png](https://i.postimg.cc/8C41XnsC/deployment.png)](https://postimg.cc/WDDLh8GR)
-=======
 - Aumentar constantemente los ingresos económicos gracias a la versión premium para nuestros usuarios.    
 
 - Posicionarnos como una empresa reconocida a nivel nacional e internacional por brindar un servicio optimizado en el área tecnológica y a promover el cuidado del medio ambiente.   
-
-
-[![deployment1.png](https://i.postimg.cc/hjg67S0y/deployment1.png)](https://postimg.cc/Jy6PfCvZ)
-=======
 - Incrementar el número de usuarios registrados en la nuestra aplicación.
-
-
-
-[![deployment2.png](https://i.postimg.cc/W3nKGQW2/deployment2.png)](https://postimg.cc/47YBZFRM)
-=======
 b. ***Features***
 
 - Brindar descuentos por objetos en desuso de acuerdo a la versión (free o premium) de la aplicación.
-
-
-[![deployment3.png](https://i.postimg.cc/wTbCbY6M/deployment3.png)](https://postimg.cc/KRBpRV3h)
-=======
 - Recomendaciones sobre el uso correcto de los componentes tecnológicos.
-
-
-
-[![deployment4.png](https://i.postimg.cc/mr7KDc71/deployment4.png)](https://postimg.cc/wtTw4jf9)
-=======
 c. ***User Benefits***
 
 - Donar los objetos tecnológicos reparados a través de las ONG’s a las más necesitadas de nuestro país.
-
 - Dotar de componentes yo/ periféricos para su PC/laptop con precios accesibles para nuestros usuarios. 
+Todo ello facilitará la propuesta de ideas acerca de las soluciones o supuestos en un principio con respecto a la empresa que el grupo ha creado. Además, permitirá una mejor estructuración del proyecto a desarrollar. 
 
+- Creo que mis clientes necesitan un lugar donde puedan adquirir componentes yo/ periféricos para su PC/laptop a precios accesibles. Donde pueden canjear objetos tecnológicos en desuso para obtener descuentos en su compra.
+- Mis clientes iniciales serán personas mayores de edad que necesiten componentes yo/ periféricos para su PC/laptop a precios módicos.
+- El valor #1 que un cliente de mi servicio es la efectividad donde resaltará el compromiso de cuidar el medio ambiente.
+- Voy a adquirir la mayoría de mis clientes a través de anuncios que aparecerán continuamente en redes sociales como Tik Tok, Facebook, Instagram o Youtube.
+- Consideramos que obtendremos dinero a través de la venta de los componentes, por la suscripción de los clientes a nuestra aplicación y por la publicidad en  todas las redes sociales.
+- Mi competencia principal en el mercado serán otras aplicaciones que ya ofrecen este servicio de venta de componentes y ofrecen descuentos por presentar objetos tecnológicos en desuso, como: Mercado libre, Black Market, Lazada y Samsung.
+- Venceremos este desafío gracias a los ingresos adicionales generados por la venta de componentes usados, los cuales serán donados para mejorar el entorno educativo en colaboración con una organización no gubernamental (ONG) en las zonas más necesitadas de nuestro país.
+- Mi mayor riesgo de producto es que en las actualizaciones que se realicen para mejorar del producto, surjan ciertos fallos que compliquen su uso para el cliente
+- Resolveremos esto a través de rigurosas supervisiones de código de programación.
+
+#### 1.2.2.3 Lean UX Hyphotesis Statements  
+
+- **Creemos que** al ofrecer la opción de intercambiar y obtener descuentos por objetos electrónicos en desuso por componentes yo/ periféricos para su PC/laptop, lograremos un impacto positivo. **Sabremos que** hemos tenido éxito **cuando** notamos un aumento en la adopción de esta opción por parte de los usuarios y  vemos una reducción en la cantidad de desechos electrónicos.
+
+- **Creemos que** al incorporar planes de suscripción (free o premium) en nuestra aplicación, brindaremos a los usuarios la oportunidad de canjear más objetos electrónicos en desuso por componentes o periféricos para su PC/laptop, lo que les permitirá acumular más descuentos. **Sabremos que** la funcionalidad ha tenido éxito **cuando** notemos un aumento significativo en la adopción del plan premium por parte de los usuarios, lo que se traducirá en descuentos  más sustanciales y la capacidad de cubrir la totalidad del costo a través de los canjes realizados.
+
+#### 1.2.2.4 Lean UX Canvas  
+
+[![LeanUXCanvas.jpg](https://i.postimg.cc/9FLRCfZL/Imagen6.jpg)](https://postimg.cc/BX1QC4hF)
+
+## 1.3 Segmentos Objetivo  
+* Individuos de 18 a 25 años
+  
+Nuestro segmento objetivo serán aquellas personas de ambos géneros desde la mayoría de edad que deseen adquirir algún componente yo/ periféricos para su PC/laptop a un precio accesible para ellos y también, que tengan productos similares que ya no lo usen, y  desean darlo como parte de pago por el producto que estén interesados en nuestra aplicación. 
+
+Estos productos usados serán reparados (de ser necesario) y donados a instituciones y entidades educativas que carecen de este apoyo. Ayudando así al medio ambiente, puesto que estos productos usados ya no terminarán en la basura. Según el Ministerio del Ambiente, en nuestro país, más del 3% de los componentes de computadora son residuos contaminantes. Es por eso que nuestra empresa ayudará a reducir estas cifras y brindar un apoyo a las personas que lo necesitan para fines académicos.
+
+======
 
 # CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT
 ## 5.1. Software Configuration Management. 
