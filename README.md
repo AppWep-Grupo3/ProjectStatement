@@ -4,7 +4,7 @@
 
 ### 4.1.1. General Style Guidelines
 
-El estilo de nuestro product UX/UI design contiene los siguientes elementos:
+El estilo de nuestro product UX/UI design contiene el siguiente logotipo, colores los cuales se especifican con su código. Así como también la fuente utilizada es Arvo.
 
 **Logotipo del General Style Guidelines**
 En un mercado competitivo como el nuestro, es crucial destacar. Nuestro logotipo nos ayuda a diferenciarnos de la competencia y a destacar entre las opciones disponibles para nuestros clientes.
@@ -12,7 +12,8 @@ En un mercado competitivo como el nuestro, es crucial destacar. Nuestro logotipo
 [![Captura-de-pantalla-2023-09-09-183944.png](https://i.postimg.cc/DzTybZLb/Captura-de-pantalla-2023-09-09-183944.png)](https://postimg.cc/zyx1sqdJ)
 
 **Colores del General Style Guidelines**
-img
+[url=https://postimg.cc/8swJd1YG][img]https://i.postimg.cc/8swJd1YG/Captura-de-pantalla-2023-09-09-204958.png[/img][/url]
+
 
 **Tipo de fuente del General Style Guidelines**
 img
