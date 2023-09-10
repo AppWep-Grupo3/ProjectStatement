@@ -333,36 +333,6 @@ Para este primer Sprint, se utilizó herramientas como Github, y Visual Code par
 - Este informe ha proporcionado una visión detallada de lo que será nuestra aplicación para comprar componentes y/o periféricos y que den como parte de pago un producto usado que será con un fin benéfico.
 
 - El desarrollo del Landing Page fue de mucha ayuda para que los usuarios puedan conocer mucha más sobre nuestro startup y de la finalidad de nuestra aplicación, si como también de las funcionalidades que tiene, y que además, esa página muestra el equipo de desarrollo, quienes tomaron esta gran iniciativa para contribuir a la educación de los estudiantes.
-=======
-Todo ello facilitará la propuesta de ideas acerca de las soluciones o supuestos en un principio con respecto a la empresa que el grupo ha creado. Además, permitirá una mejor estructuración del proyecto a desarrollar. 
-
-- Creo que mis clientes necesitan un lugar donde puedan adquirir componentes yo/ periféricos para su PC/laptop a precios accesibles. Donde pueden canjear objetos tecnológicos en desuso para obtener descuentos en su compra.
-- Mis clientes iniciales serán personas mayores de edad que necesiten componentes yo/ periféricos para su PC/laptop a precios módicos.
-- El valor #1 que un cliente de mi servicio es la efectividad donde resaltará el compromiso de cuidar el medio ambiente.
-- Voy a adquirir la mayoría de mis clientes a través de anuncios que aparecerán continuamente en redes sociales como Tik Tok, Facebook, Instagram o Youtube.
-- Consideramos que obtendremos dinero a través de la venta de los componentes, por la suscripción de los clientes a nuestra aplicación y por la publicidad en  todas las redes sociales.
-- Mi competencia principal en el mercado serán otras aplicaciones que ya ofrecen este servicio de venta de componentes y ofrecen descuentos por presentar objetos tecnológicos en desuso, como: Mercado libre, Black Market, Lazada y Samsung.
-- Venceremos este desafío gracias a los ingresos adicionales generados por la venta de componentes usados, los cuales serán donados para mejorar el entorno educativo en colaboración con una organización no gubernamental (ONG) en las zonas más necesitadas de nuestro país.
-- Mi mayor riesgo de producto es que en las actualizaciones que se realicen para mejorar del producto, surjan ciertos fallos que compliquen su uso para el cliente
-- Resolveremos esto a través de rigurosas supervisiones de código de programación.
-
-#### 1.2.2.3 Lean UX Hyphotesis Statements  
-
-- **Creemos que** al ofrecer la opción de intercambiar y obtener descuentos por objetos electrónicos en desuso por componentes yo/ periféricos para su PC/laptop, lograremos un impacto positivo. **Sabremos que** hemos tenido éxito **cuando** notamos un aumento en la adopción de esta opción por parte de los usuarios y  vemos una reducción en la cantidad de desechos electrónicos.
-
-- **Creemos que** al incorporar planes de suscripción (free o premium) en nuestra aplicación, brindaremos a los usuarios la oportunidad de canjear más objetos electrónicos en desuso por componentes o periféricos para su PC/laptop, lo que les permitirá acumular más descuentos. **Sabremos que** la funcionalidad ha tenido éxito **cuando** notemos un aumento significativo en la adopción del plan premium por parte de los usuarios, lo que se traducirá en descuentos  más sustanciales y la capacidad de cubrir la totalidad del costo a través de los canjes realizados.
-
-#### 1.2.2.4 Lean UX Canvas  
-
-[![LeanUXCanvas.jpg](https://i.postimg.cc/9FLRCfZL/Imagen6.jpg)](https://postimg.cc/BX1QC4hF)
-
-## 1.3 Segmentos Objetivo  
-* Individuos de 18 a 25 años
-  
-Nuestro segmento objetivo serán aquellas personas de ambos géneros desde la mayoría de edad que deseen adquirir algún componente yo/ periféricos para su PC/laptop a un precio accesible para ellos y también, que tengan productos similares que ya no lo usen, y  desean darlo como parte de pago por el producto que estén interesados en nuestra aplicación. 
-
-- La creación de un prototipo de alta fidelidad no permite ver la aplicación en su totalidad desde una perspectiva de un usuario consumidor, que además nos ayudó a mejorar. También, nos permitió recolectar comentarios de los usuarios entrevistados para poder realizar los cambios necesarios y ofrecer una mejor experiencia para los usuarios.
-
 
 # Video About-the-Team
 
