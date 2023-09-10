@@ -347,7 +347,7 @@ En esta sección evaluaremos e identificamos las tareas que tiene nuestro usuari
 [![Aspose-Words-484bc088-4da9-4691-834c-f7796c14b551-017.png](https://i.postimg.cc/L59dTTDV/Aspose-Words-484bc088-4da9-4691-834c-f7796c14b551-017.png)](https://postimg.cc/8J0nkLqF)
 
 ========
-# Capítulo II: Requirements Specification
+# Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping.
 
 ---
