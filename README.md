@@ -180,8 +180,9 @@ Una vez el usuario seleccione la sección de perfil el botón situado en la part
 aca se graba el video explicando la aplicacion en figma, osea se tienen que enlazar nms
 [![Captura-de-pantalla-2023-09-09-205400.png](https://i.postimg.cc/5tWd5wwx/Captura-de-pantalla-2023-09-09-205400.png)](https://postimg.cc/NKDzB2JV)
 
-enlace del figma.
-enlace del video.
+enlace del figma. https://www.figma.com/file/2D6GrWBBU2THf5Y8rgDU7T/Untitled?type=design&node-id=0%3A1&mode=design&t=nPlFirJdJbFcF56e-1 
+enlace del figma. https://www.figma.com/file/2D6GrWBBU2THf5Y8rgDU7T/Untitled?type=design&node-id=0%3A1&mode=design&t=nPlFirJdJbFcF56e-1 
+
 captura del diagrama de interaccion general.
 
 **4.6. Domain-Driven Software Architecture.**
@@ -209,7 +210,7 @@ Component Diagram - Services Context
 **4.7. Software Object-Oriented Design.**
 **4.7.1. Class Diagrams.**
 
-Inspeccionar imagen en LucidChart: enlace
+Inspeccionar imagen en LucidChart: [enlace](https://lucid.app/lucidchart/999fc1fb-dd5f-4d94-8a0e-89677467d5f8/edit?viewport_loc=972%2C411%2C2855%2C1087%2C0_0&invitationId=inv_a55de5ed-eae4-469b-92d0-d982fe85e10a)
 
 [![Captura-de-pantalla-2023-09-09-205434.png](https://i.postimg.cc/hv5NXxDR/Captura-de-pantalla-2023-09-09-205434.png)](https://postimg.cc/dZG5XhZ5)
 
@@ -226,7 +227,7 @@ Inspeccionar imagen en LucidChart: enlace
 **4.8. Database Design.**
 **4.8.1. Database Diagram.**
 
-Inspeccionar imagen en Vertabelo: enlace 
+Inspeccionar imagen en Vertabelo: [enlace](https://my.vertabelo.com/doc/ctEW8pklxW1zLiGyIllUJvc88faqZdqC) 
 
 [![Captura-de-pantalla-2023-09-09-205532.png](https://i.postimg.cc/brsBfJQC/Captura-de-pantalla-2023-09-09-205532.png)](https://postimg.cc/8fgHhTXM)
 
