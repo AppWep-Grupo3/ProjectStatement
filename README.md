@@ -797,4 +797,3 @@ Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de:
 Sustainable Cycles (SCTCLE) Programme. (2020).  The Global E-waste Monitor 2020- Quantitiesm flows, and the circular economy potential. Recuperado de: https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
 
 
-
