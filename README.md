@@ -73,12 +73,19 @@ Los SEO tags y Meta tags son elementos clave en la optimización de motores de b
 
 1. SEO Tags:
    - Title Tag:
+     [![Captura-de-pantalla-2023-09-09-205048.png](https://i.postimg.cc/YqxWB3CP/Captura-de-pantalla-2023-09-09-205048.png)](https://postimg.cc/JGGnbjJ3)
    - Meta description:
-   - Meta Keywords
+     [![Captura-de-pantalla-2023-09-09-205054.png](https://i.postimg.cc/25gq7901/Captura-de-pantalla-2023-09-09-205054.png)](https://postimg.cc/HJ4spzDm)
+   - Meta Keywords:
+     [![Captura-de-pantalla-2023-09-09-205104.png](https://i.postimg.cc/tTPsSdc2/Captura-de-pantalla-2023-09-09-205104.png)](https://postimg.cc/MM6ZXBqQ)
 2. Meta Tags
    - Meta Robots:
+     [![Captura-de-pantalla-2023-09-09-205109.png](https://i.postimg.cc/kGvB9JqS/Captura-de-pantalla-2023-09-09-205109.png)](https://postimg.cc/hQhS1qJ4)
    - Meta Charset:
+     [![Captura-de-pantalla-2023-09-09-205114.png](https://i.postimg.cc/ZnSC1BtZ/Captura-de-pantalla-2023-09-09-205114.png)](https://postimg.cc/47Wfc3xF)
    - Meta Author:
+     [![Captura-de-pantalla-2023-09-09-205121.png](https://i.postimg.cc/xjvkLRMd/Captura-de-pantalla-2023-09-09-205121.png)](https://postimg.cc/V5NL8X7y)
+     
 **4.2.4. Searching Systems.**
 En esta sección del informe, se busca definir la estructura de búsqueda de productos dentro de nuestra aplicación, con la finalidad de que el usuario no se vea abrumado con tanta información a la vista. La aplicación proporciona distintos productos entre periféricos y/o componentes de computadora. Es por ello que utilizaremos los siguientes elementos:
 -**Un campo de búsqueda:** Esta está ubicada en la parte superior, abajo de la barra de navegación. La cual podrá ser utilizada por el usuario para buscar un determinado producto de su preferencia.
@@ -91,86 +98,88 @@ En relación a nuestro Landing Page, será lo primero que verá el usuario, ya a
 **4.3. Landing Page UI Design.** 
 **4.3.1. Landing Page Wireframe.** 
 *Landing Page Wireframe Desktop:*
-img
+[![Captura-de-pantalla-2023-09-09-205130.png](https://i.postimg.cc/bNLsBw6c/Captura-de-pantalla-2023-09-09-205130.png)](https://postimg.cc/TpLdyfMC)
 
 **4.3.2. Landing Page Mock-up.** 
 **4.4. Web Applications UX/UI Design.** 
 **4.4.1. Web Applications Wireframes.**
-img
+[![Captura-de-pantalla-2023-09-09-205137.png](https://i.postimg.cc/qMpNw3xx/Captura-de-pantalla-2023-09-09-205137.png)](https://postimg.cc/s10fD18M)
 
 **4.4.2. Web Applications Wireflow Diagrams.**
 **User Goal:** El usuario se registra en la aplicacion{
 El usuario inicia en la pantalla de registro, en la cual se solicitan los datos de usuario como correo y contraseña. si el usuario llena todos los campos solicitados con datos válidos, acepta los términos y condiciones y hace click en el botón de "Crear cuenta", aparecerá un formulario y deberá de completar con sus datos personales todos los campos y finalmente le aparecerá un mensaje de "REGISTRO EXITOSO". De lo contrario, le mostara un mensaje de un mensaje de "correo o contraseña son invalidos" o  "Hay campos incompletos" y con señales de mensaje de color rojo.
 
-img
+[![Captura-de-pantalla-2023-09-09-205145.png](https://i.postimg.cc/2SK3CXR0/Captura-de-pantalla-2023-09-09-205145.png)](https://postimg.cc/sM53cm2W)
 
 **User Goal:** El usuario inicia sesion en la aplicacion
 Cuando el usuario ingrese su correo y contraseña de manera correcta y haga clic, le mostrará de un mensaje “BIENVENIDO A XCOMPONENTS” y cuando haga clic en aceptar habrá ingresado a la aplicación. De lo contrario le mostrará un mensaje “El correo o contraseña son incorrectos” y con señales de mensaje de color rojo.
 
-img
+[![Captura-de-pantalla-2023-09-09-205154.png](https://i.postimg.cc/t4TYQGf1/Captura-de-pantalla-2023-09-09-205154.png)](https://postimg.cc/VdxYnpz1)
 
 **User Goal:** El usuario carga su producto como parte de pago
 Cuando el usuario esté interesado por un producto específico en nuestra aplicación, y cargue todos los datos solicitados, así como también las imágenes solicitadas y haga clic en “Finalizar”, se le mostrará un mensaje de “Solicitud enviada”. De lo contrario se mostrarán mensajes de “Hay campos incompletos” y/o “Se debe subir mínimo 4 imágenes”.
 
-img
+[![Captura-de-pantalla-2023-09-09-205200.png](https://i.postimg.cc/43HyybXs/Captura-de-pantalla-2023-09-09-205200.png)](https://postimg.cc/bG8pFnGB)
 
 **User Goal:** El usuario visualiza el precio total descontado por su producto usado
 Cuando el usuario esté interesado por un producto específico en nuestra aplicación, y cargue todos los datos solicitados y estos sean validados, luego de que sea validado por nuestro equipo, el descuento se efectuará automáticamente y el usuario podrá continuar con su compra. Caso contrario, si el producto usado es rechazado debido a la observación de nuestro equipo, no procederá el descuento.
 
- img
+ [![Captura-de-pantalla-2023-09-09-205207.png](https://i.postimg.cc/9M3M7RfT/Captura-de-pantalla-2023-09-09-205207.png)](https://postimg.cc/p9ZRNdzX)
 
 **User Goal:** El usuario elige  entre una suscripción gratuita o premium 
 Una vez que el usuario haya ingresado sus datos de forma correcta y haya iniciado sesión en la aplicación, se le presentará una pestaña con las distintas opciones de planos disponibles. Cuando el usuario seleccione la opción "premium", se abrirá una pasarela de pagos para procesar la transacción. Si el usuario completa exitosamente el pago, se le mostrará una ventana de confirmación para verificar que la suscripción premium se ha activado correctamente. En caso contrario, si el usuario elige en plan “FREE” se le mostrará un mensaje confirmando su plan.
 
- img
+ [![Captura-de-pantalla-2023-09-09-205213.png](https://i.postimg.cc/yxs8LMc8/Captura-de-pantalla-2023-09-09-205213.png)](https://postimg.cc/G8gR2SXW)
 
 **User Goal:** El usuario edita sus datos de perfil
 Una vez el usuario seleccione la sección de perfil el botón situado en la parte superior “editar perfil”, entonces los campos donde indica cada dato del perfil se vuelven editables. Una vez el usuario edita los datos según considere, debe dar click en el botón de “confirmar cambios”. Finalmente, dependiendo de una validación de datos, se muestra en pantalla un mensaje de ”Perfil actualizado”, si los datos fueron validados correctamente, y “Datos Incorrectos” si los datos no pasaron la validación. 
 
-img
+[![Captura-de-pantalla-2023-09-09-205219.png](https://i.postimg.cc/qqwMS1xX/Captura-de-pantalla-2023-09-09-205219.png)](https://postimg.cc/PvLj8zcP)
 
 **User Goal:** El usuario visualiza el historial de compras
 Una vez el usuario seleccione la sección de perfil el botón situado en la parte superior “Historial de compras”, entonces de haber realizado compras previamente, estas se muestran, de no existir compras previas a la consulta, se muestra un mensaje de “Parece que no hay nada por aquí, ¡Empieza a comprar!”
 
-img
+[![Captura-de-pantalla-2023-09-09-205225.png](https://i.postimg.cc/DwHf9JLD/Captura-de-pantalla-2023-09-09-205225.png)](https://postimg.cc/jD6rNj8Q)
 
 **4.4.3. Web Applications Mock-ups. 6/34 V1.0**
 **4.4.4. Web Applications User Flow Diagrams.**
 **User Goal:** El usuario se registra en la aplicación
 El usuario inicia en la pantalla de registro, en la cual se solicitan los datos de usuario como correo y contraseña. si el usuario llena todos los campos solicitados con datos válidos, acepta los términos y condiciones y hace click en el botón de "Crear cuenta", aparecerá un formulario y deberá de completar con sus datos personales todos los campos y finalmente le aparecerá un mensaje de "REGISTRO EXITOSO". De lo contrario, le mostara un mensaje de un mensaje de "correo o contraseña son invalidos" o  "Hay campos incompletos" y con senales de mensaje de color rojo.
 
-img
+[![Captura-de-pantalla-2023-09-09-205335.png](https://i.postimg.cc/pdKv302h/Captura-de-pantalla-2023-09-09-205335.png)](https://postimg.cc/8Fkx6mfN)
 
 **User Goal:** El usuario inicia sesión en la aplicación
 Cuando el usuario ingrese su correo y contraseña de manera correcta y haga clic, le mostrará de un mensaje “BIENVENIDO A XCOMPONENTS” y cuando haga clic en aceptar habrá ingresado a la aplicación. De lo contrario le mostrará un mensaje “El correo o contraseña son incorrectos” y con señales de mensaje de color rojo.
 
-img
+[![Captura-de-pantalla-2023-09-09-205339.png](https://i.postimg.cc/Jzfm6wWC/Captura-de-pantalla-2023-09-09-205339.png)](https://postimg.cc/4YQrySdW)
 
 **User Goal:** El usuario elige  entre una suscripción gratuita o premium 
 Una vez que el usuario haya ingresado sus datos de forma correcta y haya iniciado sesión en la aplicación, se le presentará una pestaña con las distintas opciones de planos disponibles. Cuando el usuario seleccione la opción "premium", se abrirá una pasarela de pagos para procesar la transacción. Si el usuario completa exitosamente el pago, se le mostrará una ventana de confirmación para verificar que la suscripción premium se ha activado correctamente. En caso contrario, si el usuario elige en plan “FREE” se le mostrará un mensaje confirmando su plan.
 
-img
+[![Captura-de-pantalla-2023-09-09-205343.png](https://i.postimg.cc/pTZHLp5P/Captura-de-pantalla-2023-09-09-205343.png)](https://postimg.cc/dkLXWQ9f)
 
 **User Goal:** El usuario carga la información de su producto usado
 En el siguiente user flow diagram se observa el happy path y unhappy path para el user goal descrit. El happy path ocurre cuando el usuario rellena todos los campos y requerimientos solicitados, y hace clic en el botón, logrando enviar su solicitud para validar su producto usado.
 
-img
+[![Captura-de-pantalla-2023-09-09-205347.png](https://i.postimg.cc/yx8zgs0c/Captura-de-pantalla-2023-09-09-205347.png)](https://postimg.cc/8J9Yx8Kz)
 
 **User Goal:** El usuario puede continuar con su compra con el descuento incluido
 Para este user goal, el happy path ocurre cuando el usuario envía su información correctamente, y fue validado para poder acceder al descuento y continuar con su compra. El unhappy path ocurre cuando al usuario no le validan su producto usado debido a observaciones detalladas en su correo.
 
-img
+[![Captura-de-pantalla-2023-09-09-205351.png](https://i.postimg.cc/1X71D2KT/Captura-de-pantalla-2023-09-09-205351.png)](https://postimg.cc/2LWtDHMF)
 
 **User Goal:** El usuario edita sus datos de perfil
 Una vez el usuario seleccione la sección de perfil el botón situado en la parte superior “editar perfil”, entonces los campos donde indica cada dato del perfil se vuelven editables. Una vez el usuario edita los datos según considere, debe dar click en el botón de “confirmar cambios”. Finalmente, dependiendo de una validación de datos, se muestra en pantalla un mensaje de ”Perfil actualizado”, si los datos fueron validados correctamente, y “Datos Incorrectos” si los datos no pasaron la validación. 
 
-img
+[![Captura-de-pantalla-2023-09-09-205355.png](https://i.postimg.cc/wxwzKRdV/Captura-de-pantalla-2023-09-09-205355.png)](https://postimg.cc/kDRzK4G6)
 
 **User Goal:** El usuario visualiza el historial de compras
 Una vez el usuario seleccione la sección de perfil el botón situado en la parte superior “Historial de compras”, entonces de haber realizado compras previamente, estas se muestran, de no existir compras previas a la consulta, se muestra un mensaje de “Parece que no hay nada por aquí, ¡Empieza a comprar!”
 
 **4.5. Web Applications Prototyping.**
 aca se graba el video explicando la aplicacion en figma, osea se tienen que enlazar nms
+[![Captura-de-pantalla-2023-09-09-205400.png](https://i.postimg.cc/5tWd5wwx/Captura-de-pantalla-2023-09-09-205400.png)](https://postimg.cc/NKDzB2JV)
+
 enlace del figma.
 enlace del video.
 captura del diagrama de interaccion general.
@@ -178,41 +187,48 @@ captura del diagrama de interaccion general.
 **4.6. Domain-Driven Software Architecture.**
 **4.6.1. Software Architecture Context Diagram**
 
-img
+[![Captura-de-pantalla-2023-09-09-205407.png](https://i.postimg.cc/gk5Pj9jL/Captura-de-pantalla-2023-09-09-205407.png)](https://postimg.cc/LnzWQbzm)
 
 **4.6.2. Software Architecture Container Diagrams.**
 
-img
+[![Captura-de-pantalla-2023-09-09-205411.png](https://i.postimg.cc/L6hpm49M/Captura-de-pantalla-2023-09-09-205411.png)](https://postimg.cc/PPGc4jv6)
 
 **4.6.3. Software Architecture Components Diagrams.**
 Component Diagram - Account Context
 
-img
+[![Captura-de-pantalla-2023-09-09-205416.png](https://i.postimg.cc/rpG6fKJ5/Captura-de-pantalla-2023-09-09-205416.png)](https://postimg.cc/DWzYZfRz)
 
 Component Diagram - Notification Context
 
-img
+[![Captura-de-pantalla-2023-09-09-205420.png](https://i.postimg.cc/bJq7WpCW/Captura-de-pantalla-2023-09-09-205420.png)](https://postimg.cc/5HkKFdMS)
 
 Component Diagram - Services Context
 
-img
+[![Captura-de-pantalla-2023-09-09-205426.png](https://i.postimg.cc/63zkNgF3/Captura-de-pantalla-2023-09-09-205426.png)](https://postimg.cc/DJJjrjvk)
 
 **4.7. Software Object-Oriented Design.**
 **4.7.1. Class Diagrams.**
 
 Inspeccionar imagen en LucidChart: enlace
 
-img
+[![Captura-de-pantalla-2023-09-09-205434.png](https://i.postimg.cc/hv5NXxDR/Captura-de-pantalla-2023-09-09-205434.png)](https://postimg.cc/dZG5XhZ5)
 
 **4.7.2. Class Dictionary.**
- tabla
+
+ [![Captura-de-pantalla-2023-09-09-205446.png](https://i.postimg.cc/Dfj9pVqp/Captura-de-pantalla-2023-09-09-205446.png)](https://postimg.cc/BtF7tV72)
+[![Captura-de-pantalla-2023-09-09-205453.png](https://i.postimg.cc/Sx8HKJHH/Captura-de-pantalla-2023-09-09-205453.png)](https://postimg.cc/9DmL8FmB)
+[![Captura-de-pantalla-2023-09-09-205459.png](https://i.postimg.cc/Bv0kPJ0b/Captura-de-pantalla-2023-09-09-205459.png)](https://postimg.cc/sMTwtd1C)
+[![Captura-de-pantalla-2023-09-09-205507.png](https://i.postimg.cc/YqvJJXRr/Captura-de-pantalla-2023-09-09-205507.png)](https://postimg.cc/JGW6X5Sv)
+[![Captura-de-pantalla-2023-09-09-205515.png](https://i.postimg.cc/sXfLKK1R/Captura-de-pantalla-2023-09-09-205515.png)](https://postimg.cc/yJ5n8mFf)
+[![Captura-de-pantalla-2023-09-09-205522.png](https://i.postimg.cc/0N03phkf/Captura-de-pantalla-2023-09-09-205522.png)](https://postimg.cc/2q32YcBb)
+[![Captura-de-pantalla-2023-09-09-205527.png](https://i.postimg.cc/xCs4ZHbN/Captura-de-pantalla-2023-09-09-205527.png)](https://postimg.cc/34v14k13)
 
 **4.8. Database Design.**
 **4.8.1. Database Diagram.**
 
 Inspeccionar imagen en Vertabelo: enlace 
 
-img
+[![Captura-de-pantalla-2023-09-09-205532.png](https://i.postimg.cc/brsBfJQC/Captura-de-pantalla-2023-09-09-205532.png)](https://postimg.cc/8fgHhTXM)
 
 
  
