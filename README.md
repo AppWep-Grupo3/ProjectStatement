@@ -208,4 +208,3 @@ Nuestro segmento objetivo serán aquellas personas de ambos géneros desde la ma
 Estos productos usados serán reparados (de ser necesario) y donados a instituciones y entidades educativas que carecen de este apoyo. Ayudando así al medio ambiente, puesto que estos productos usados ya no terminarán en la basura. Según el Ministerio del Ambiente, en nuestro país, más del 3% de los componentes de computadora son residuos contaminantes. Es por eso que nuestra empresa ayudará a reducir estas cifras y brindar un apoyo a las personas que lo necesitan para fines académicos.
 =======
 
-
