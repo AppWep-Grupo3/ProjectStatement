@@ -25,19 +25,19 @@ Lo siguiente corresponde a la guía para la versión web. Se puede visualizar co
 [![Captura-de-pantalla-2023-09-09-205011.png](https://i.postimg.cc/T3YWdDy3/Captura-de-pantalla-2023-09-09-205011.png)](https://postimg.cc/yktNnWXM)
 
 *Search Interactive Elements del General Style Guidelines*
-img
+[![Captura-de-pantalla-2023-09-09-205011.png](https://i.postimg.cc/T3YWdDy3/Captura-de-pantalla-2023-09-09-205011.png)](https://postimg.cc/yktNnWXM)
 
 *Input Interactive Elements del General Style Guidelines*
-img
+[![Captura-de-pantalla-2023-09-09-205016.png](https://i.postimg.cc/x8vbCGyc/Captura-de-pantalla-2023-09-09-205016.png)](https://postimg.cc/dZ00NyfY)
 
 *Buttons Interactive Elements del General Style Guidelines*
-img
+[![Captura-de-pantalla-2023-09-09-205021.png](https://i.postimg.cc/L4LPNRK2/Captura-de-pantalla-2023-09-09-205021.png)](https://postimg.cc/qgBgvPv5)
 
 *Buttons & Slider Interactive Elements del General Style Guidelines*
-img
+[![Captura-de-pantalla-2023-09-09-205033.png](https://i.postimg.cc/SxTYJx87/Captura-de-pantalla-2023-09-09-205033.png)](https://postimg.cc/nXmhWZ3C)
 
 *Form Elements del General Style Guidelines*
-img
+[![Captura-de-pantalla-2023-09-09-205038.png](https://i.postimg.cc/yNDg9Cyq/Captura-de-pantalla-2023-09-09-205038.png)](https://postimg.cc/1gZ3hTdM)
 
 **4.2. Information Architecture.**
 En esta sección detallaremos, analizaremos y sustentamos todas las decisiones del diseño que tomamos durante el desarrollo del presente proyecto. También, explicaremos las propuestas del diseño de nuestra aplicación y landing page para facilitar la adaptación e interacción del usuario.
