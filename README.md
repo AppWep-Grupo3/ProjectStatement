@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![Logo UPC](https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png)
@@ -205,3 +206,6 @@ Todo ello facilitará la propuesta de ideas acerca de las soluciones o supuestos
 Nuestro segmento objetivo serán aquellas personas de ambos géneros desde la mayoría de edad que deseen adquirir algún componente yo/ periféricos para su PC/laptop a un precio accesible para ellos y también, que tengan productos similares que ya no lo usen, y  desean darlo como parte de pago por el producto que estén interesados en nuestra aplicación. 
 
 Estos productos usados serán reparados (de ser necesario) y donados a instituciones y entidades educativas que carecen de este apoyo. Ayudando así al medio ambiente, puesto que estos productos usados ya no terminarán en la basura. Según el Ministerio del Ambiente, en nuestro país, más del 3% de los componentes de computadora son residuos contaminantes. Es por eso que nuestra empresa ayudará a reducir estas cifras y brindar un apoyo a las personas que lo necesitan para fines académicos.
+=======
+
+
