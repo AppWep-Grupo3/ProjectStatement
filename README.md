@@ -11,7 +11,7 @@ Ciclo 2023-02
 
 <h2>Aplicaciones Web</h2>
 
-<h3>TB1 REPORT</h3>
+<h3>TP REPORT</h3>
 
 Sección SV51
 
@@ -41,10 +41,41 @@ Tasayco, Javier Sebastian
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de la modificación |
-| ------- | ----- | ----- | ------------------------------ |
-|   1.0      |   2023-09-09    | Todo el equipo mencionado      |       La resolución de todo el trabajo, enfocándonos en el publico objetivo y a sus necesidades.                  |
-|         |       |       |                                |
+<table>
+  <thead>
+    <tr>
+      <th>Versión</th>
+      <th>Fecha</th>
+      <th>Autor</th>
+      <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>TB1</td>
+      <td>30/08/23</td>
+      <td>Todo el grupo</td>
+      <td>
+        <ul>
+          <li>Ítems de los capítulos: I, II, III y IV</li>
+          <li>Software Configuration Management</li>
+          <li>Desarrollo de sprint 1</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>TP</td>
+      <td>30/09/2023</td>
+      <td>Todo el grupo</td>
+      <td>
+        <ul>
+          <li>Sprint 2</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
@@ -57,6 +88,364 @@ Link de repositorio Github: https://github.com/AppWep-Grupo3/Grupo02
 # Contenido
 
 ## Tabla de contenidos
+<table>
+  <tr>
+    <td>REGISTRO DE VERSIONES DEL INFORME</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>STUDENT OUTCOME</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>CAPÍTULO I: INTRODUCCIÓN</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>1.1. Startup Profile</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>1.1.1. Descripción de la Startup</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>1.1.2. Perfiles de integrantes del equipo</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>1.2. Solution Profile</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>1.2.1. Antecedentes y problemática</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>1.2.2. Lean UX Process</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>1.2.2.1. Lean UX Problem Statements</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>1.2.2.2. Lean UX Assumptions</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>1.2.2.3. Lean UX Hypothesis Statements</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>1.2.2.4. Lean UX Canvas</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>1.3. Segmentos objetivo</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>2.1. Competidores</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>2.1.1. Análisis Competitivo</td>
+    <td>12</td>
+  </tr>
+  <tr>
+    <td>2.1.2. Estrategias Y Tácticas Frente A Competidores</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>2.2. Entrevistas</td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>2.2.1. Diseño De Entrevistas</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>2.2.2. Registro De Entrevistas</td>
+    <td>15</td>
+  </tr>
+  <tr>
+    <td>2.2.3. Análisis De Entrevistas</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>2.3. Needfinding</td>
+    <td>16</td>
+  </tr>
+  <tr>
+    <td>2.3.1. User Personas</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td>2.3.2. User Task Matrix</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td>2.3.3. User Journey Mapping</td>
+    <td>17</td>
+  </tr>
+  <tr>
+    <td>2.3.4. Empathy Mapping</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>2.3.5. As-Is Scenario Mapping</td>
+    <td>18</td>
+  </tr>
+  <tr>
+    <td>CAPÍTULO III: REQUIREMENTS SPECIFICATION</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>3.1. To-Be Scenario Mapping</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>3.2. User Stories</td>
+    <td>19</td>
+  </tr>
+  <tr>
+    <td>3.3. Impact Mappin</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>3.4. Product Backlog</td>
+    <td>23</td>
+  </tr>
+  <tr>
+    <td>CAPÍTULO IV: PRODUCT DESIGN</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>4.1. Style Guidelines</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>4.1.1. General Style Guidelines</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>4.1.2. Web Style Guidelines</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>4.2. Information Architecture</td>
+    <td>27</td>
+  </tr>
+  <tr>
+    <td>4.2.1. Organization Systems</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>4.2.2. Labeling Systems</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>4.2.3. Seo Tags And Meta Tags</td>
+    <td>28</td>
+  </tr>
+  <tr>
+    <td>4.2.4. Searching Systems</td>
+    <td>29</td>
+  </tr>
+  <tr>
+    <td>4.2.5. Navigation Systems</td>
+    <td>29</td>
+  </tr>
+  <tr>
+    <td>4.3. Landing Page Ui Design</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>4.3.1. Landing Page Wireframe</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>4.3.2. Landing Page Mock-Up</td>
+    <td>31</td>
+  </tr>
+  <tr>
+    <td>4.4. Web Applications Ux/Ui Design</td>
+    <td>31</td>
+  </tr>
+  <tr>
+    <td>4.4.1. Web Applications Wireframes</td>
+    <td>31</td>
+  </tr>
+  <tr>
+    <td>4.4.2. Web Applications Wireflow Diagrams</td>
+    <td>34</td>
+  </tr>
+  <tr>
+    <td>4.4.3. Web Applications Mock-Ups</td>
+    <td>38</td>
+  </tr>
+  <tr>
+    <td>4.4.4. Web Applications User Flow Diagrams</td>
+    <td>39</td>
+  </tr>
+  <tr>
+    <td>4.5. Web Applications Prototyping</td>
+    <td>43</td>
+  </tr>
+  <tr>
+    <td>4.6. Domain-driven software architecture</td>
+    <td>44</td>
+  </tr>
+  <tr>
+    <td>4.6.1. Software Architecture Context Diagram</td>
+    <td>44</td>
+  </tr>
+  <tr>
+    <td>4.6.2. Software Architecture Container Diagrams</td>
+    <td>44</td>
+  </tr>
+  <tr>
+    <td>4.6.3. Software Architecture Components Diagrams</td>
+    <td>45</td>
+  </tr>
+  <tr>
+    <td>4.7. Software Object-Oriented Design</td>
+    <td>47</td>
+  </tr>
+  <tr>
+    <td>4.7.1. Class Diagrams</td>
+    <td>47</td>
+  </tr>
+  <tr>
+    <td>4.7.2. Class Dictionary</td>
+    <td>47</td>
+  </tr>
+  <tr>
+    <td>4.8. Database Design</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>4.8.1. Database Diagram</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</td>
+    <td>51</td>
+  </tr>
+  <tr>
+    <td>5.1. Software configuration management</td>
+    <td>51</td>
+  </tr>
+  <tr>
+    <td>5.1.1. Software development environment configuration</td>
+    <td>51</td>
+  </tr>
+  <tr>
+    <td>5.1.2. Source code management</td>
+    <td>51</td>
+  </tr>
+  <tr>
+    <td>5.1.3. Source code style guide & conventions</td>
+    <td>52</td>
+  </tr>
+  <tr>
+    <td>5.1.4. Software deployment configuration</td>
+    <td>52</td>
+  </tr>
+  <tr>
+    <td>5.2. Landing page, services & applications implementation</td>
+    <td>54</td>
+  </tr>
+  <tr>
+    <td>5.2.1. Sprint 1</td>
+    <td>54</td>
+  </tr>
+  <tr>
+    <td>5.2.1.1. Sprint planning 1</td>
+    <td>54</td>
+  </tr>
+  <tr>
+    <td>5.2.1.2. Sprint backlog 1</td>
+    <td>54</td>
+  </tr>
+  <tr>
+    <td>5.2.1.3. Development evidence for sprint review</td>
+    <td>55</td>
+  </tr>
+  <tr>
+    <td>5.2.1.4. Testing suite evidence for sprint review</td>
+    <td>55</td>
+  </tr>
+  <tr>
+    <td>5.2.1.5. Execution evidence for sprint review</td>
+    <td>55</td>
+  </tr>
+  <tr>
+    <td>5.2.1.6. Services documentation evidence for sprint review</td>
+    <td>55</td>
+  </tr>
+  <tr>
+    <td>5.2.1.7. Software deployment evidence for sprint review</td>
+    <td>56</td>
+  </tr>
+  <tr>
+    <td>5.2.1.8. Team collaboration insights during sprint</td>
+    <td>56</td>
+  </tr>
+  <tr>
+    <td>5.2.2. Sprint 2</td>
+    <td>57</td>
+  </tr>
+  <tr>
+    <td>5.2.2.1. Sprint Planning 2</td>
+    <td>57</td>
+  </tr>
+  <tr>
+    <td>5.2.2.2. Sprint Backlog 2</td>
+    <td>57</td>
+  </tr>
+  <tr>
+    <td>5.2.2.3. Development Evidence for Sprint Review</td>
+    <td>58</td>
+  </tr>
+  <tr>
+    <td>5.2.2.4. Testing Suite Evidence for Sprint Review</td>
+    <td>58</td>
+  </tr>
+  <tr>
+    <td>5.2.2.5. Execution Evidence for Sprint Review</td>
+    <td>58</td>
+  </tr>
+  <tr>
+    <td>5.2.2.6. Services Documentation Evidence for Sprint Review</td>
+    <td>58</td>
+  </tr>
+  <tr>
+    <td>5.2.2.7. Software Deployment Evidence for Sprint Review</td>
+    <td>59</td>
+  </tr>
+  <tr>
+    <td>5.2.2.8. Team Collaboration Insights during Sprint</td>
+    <td>59</td>
+  </tr>
+  <tr>
+    <td>CONCLUSIONES</td>
+    <td>61</td>
+  </tr>
+  <tr>
+    <td>BIBLIOGRAFÍA</td>
+    <td>61</td>
+  </tr>
+  <tr>
+    <td>ANEXOS</td>
+    <td>62</td>
+  </tr>
+</table>
 
 ---
 
@@ -72,10 +461,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-
-[![image.png](https://i.postimg.cc/zvQcmgw9/image.png)](https://postimg.cc/dZ8BrDxB)
-
-
+[![Captura-de-pantalla-2023-09-30-160120.png](https://i.postimg.cc/k53BZC22/Captura-de-pantalla-2023-09-30-160120.png)](https://postimg.cc/Wd8NFQ6V)
+[![Captura-de-pantalla-2023-09-30-160516.png](https://i.postimg.cc/N0dvX7vQ/Captura-de-pantalla-2023-09-30-160516.png)](https://postimg.cc/1gVdhFzd)
 ---
 # Capitulo 1 : Introducción  
 ## 1.1 Startup profile  
@@ -770,30 +1157,248 @@ Para este primer Sprint, se utilizó herramientas como Github, y Visual Code par
 
 [![commit.png](https://i.postimg.cc/J4Rf4wc7/commit.png)](https://postimg.cc/w3bf0GGn)
 
+### 5.2.2. Sprint 2 
+#### 5.2.2.1.Sprint Planning 2
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 2</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Background</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>27/09/2023</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>22:30 horas</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Virtual meeting - Google Meet</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>Anthony Avalos</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <ul>
+        <li>Alexis Vargas Quispe</li>
+        <li>Anthony Avalos Santos</li>
+        <li>Giakomo Causso</li>
+        <li>Javier Sebastian</li>
+        <li>Mariela Martinez Carbajal</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint 2-1 Review Summary</th>
+    <td>Se ha alcanzado el éxito en la implementación inicial de la lógica de negocio como una puesta en marcha de nuestros recursos de la aplicación.</td>
+  </tr>
+  <tr>
+    <th>Sprint 2-1 Retrospective Summary</th>
+    <td>Optimización en la asignación de tareas al reflejar los plazos según los puntos de historia.</td>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Goal</th>
+    <td>Application Implementation</td>
+  </tr>
+  <tr>
+    <th>Sprint 2 Velocity</th>
+    <td>El velocity establecido será 30 story points.</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>Para el presente Sprint se decidió un total de 22 Story Points.</td>
+  </tr>
+</table>
+
+#### 5.2.2.2.	Sprint Backlog 2
+
+<table>
+  <tr>
+    <th>User Story</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>US01</td>
+    <td>WI01</td>
+    <td>Registrar Usuario</td>
+    <td>Desarrollo e implementación del componente register-form usando Angular Material y TypeScript</td>
+    <td>3</td>
+    <td>Javier</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US02</td>
+    <td>WI02</td>
+    <td>Sección login</td>
+    <td>Desarrollo e implementación del componente. Login usando Angular Material y TypeScript</td>
+    <td>3</td>
+    <td>Mariela</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US03</td>
+    <td>WI03</td>
+    <td>Sección planes</td>
+    <td>Desarrollo e implementación del componente. Login usando Angular Material y TypeScript</td>
+    <td>2</td>
+    <td>Giakomo Causso</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US04</td>
+    <td>WI04</td>
+    <td>Sección planes</td>
+    <td>Desarrollo e implementación del componente. Login usando Angular Material y TypeScript</td>
+    <td>2</td>
+    <td>Giakomo Causso</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>SS06</td>
+    <td>WI05</td>
+    <td>Sección producto</td>
+    <td>Desarrollo e implementación del componente. Login usando Angular Material y TypeScript</td>
+    <td>4</td>
+    <td>Anthony Avalos</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>WI06</td>
+    <td>Sección general</td>
+    <td>Desarrollo e implementación del componente. Login usando Angular Material y TypeScript</td>
+    <td>4</td>
+    <td>Anthony Avalos</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+#### 5.2.2.3.	Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Committed on (Date)</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AppWep-Grupo3/Grupo2/tree/main/XComponent">Grupo2/XComponent</a></td>
+    <td>feature/US01</td>
+    <td>a004bb7d1d8f340d7c6d834eee061c84f89b3066</td>
+    <td>feat: register-form</td>
+    <td>-</td>
+    <td>28/09/2023</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AppWep-Grupo3/Grupo2/tree/main/XComponent">Grupo2/XComponent</a></td>
+    <td>feature/US02</td>
+    <td>394728df66d5757cfde9c74fd05ff9e50a2a23bc</td>
+    <td>feat: Iniciar sesión</td>
+    <td>-</td>
+    <td>24/09/2023</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AppWep-Grupo3/Grupo2/tree/main/XComponent">Grupo2/XComponent</a></td>
+    <td>feature/US03</td>
+    <td>f43ec1413948464937b01853857cfa6dd0f582d</td>
+    <td>Feat: Visualizar suscripciones</td>
+    <td>-</td>
+    <td>26/09/2023</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AppWep-Grupo3/Grupo2/tree/main/XComponent">Grupo2/XComponent</a></td>
+    <td>feature/US04</td>
+    <td>2713e60c257fc4e1168dfe5d191d7b086a6cd646</td>
+    <td>feat: Gestión de suscripciones</td>
+    <td>-</td>
+    <td>25/09/2023</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AppWep-Grupo3/Grupo2/tree/main/XComponent">Grupo2/XComponent</a></td>
+    <td>feature/US06</td>
+    <td>8bcb9bac0de4f14b05639ee322ad690bbf6bf662</td>
+    <td>feat: Detalles del producto</td>
+    <td>-</td>
+    <td>25/09/2023</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AppWep-Grupo3/Grupo2/tree/main/XComponent">Grupo2/XComponent</a></td>
+    <td>feature/US060</td>
+    <td>c9f62b9117a8720b10f48d954b957ab0fedbf60f</td>
+    <td>Feat: Varias funciones</td>
+    <td>-</td>
+    <td>27/09/2023</td>
+  </tr>
+</table>
+
+#### 5.2.2.4.	Testing Suite Evidence for Sprint Review
+En esta entrega, no se incluyó dicha sección, ya que no se realizaron tests con API.
+
+#### 5.2.2.5.	Execution Evidence for Sprint Review
+[![Imagen1.jpg](https://i.postimg.cc/90WxYsdS/Imagen1.jpg)](https://postimg.cc/1njc9CYc)
+video:  https://upcedupe.sharepoint.com/:v:/s/AplicacionesWeb851/Ec9h0QWvVfpOgRUZqdy-D8YB7sBmYjznq85ISfFAmP7mYQ?e=rpMDDV
+
+#### 5.2.2.6.	Services Documentation Evidence for Sprint Review
+Para este segundo sprint se ha trabajado con endpoints.
+Los métodos GET users están relacionados a la pantalla de Login, para verificar que el usuario existe en la base de db.json.
+Asimismo, los métodos POST users están relacionados a las pantallas de Register para registrar a un nuevo usuario en la página de registro.
+Los métodos GET productos con parámetro de id, están relacionados a la pantalla de home, donde el usuario puede ver la lista de componentes disponibles para la venta.
+[![Imagen2.png](https://i.postimg.cc/HkJ6zwMp/Imagen2.png)](https://postimg.cc/jDb6dJv9)
+Enlace del video: https://upcedupe.sharepoint.com/:v:/s/AplicacionesWeb851/Ec9h0QWvVfpOgRUZqdy-D8YB7sBmYjznq85ISfFAmP7mYQ?e=rpMDDV
+
+#### 5.2.2.7.	Software Deployment Evidence for Sprint Review. 
+
+[![Imagen3.png](https://i.postimg.cc/FK5Vx2mZ/Imagen3.png)](https://postimg.cc/PCyDXVCp)
+[![Imagen4.png](https://i.postimg.cc/vZ6vfQRT/Imagen4.png)](https://postimg.cc/hXcxqRtR)
+
+5.2.2.8.	Team Collaboration Insights during Sprint
+En el segundo Sprint, se emplearon herramientas como Visual Studio Code, GitHub Desktop y Git para llevar a cabo los registros de cambios. Inicialmente, un miembro del equipo efectuó el primer registro de cambios con el fin de establecer el repositorio. Posteriormente, el repositorio fue clonado utilizando Git, y se llevaron a cabo ajustes utilizando Visual Studio Code. Se crearon ramas específicas para estas modificaciones y, por último, se registraron los cambios mediante commits. Estos registros de cambios deben ser evaluados y revisados en el repositorio de GitHub.
+[![Imagen5.png](https://i.postimg.cc/MKfBrd9r/Imagen5.png)](https://postimg.cc/Vd15JBQj)
+[![Imagen6.png](https://i.postimg.cc/T24m9ZJD/Imagen6.png)](https://postimg.cc/4npm42Mf)
+[![Imagen7.png](https://i.postimg.cc/NF5Xt4BF/Imagen7.png)](https://postimg.cc/9wH0ty4H)
+[![Imagen8.png](https://i.postimg.cc/FzdY8HVJ/Imagen8.png)](https://postimg.cc/1VSRNPT9)
+
+
 # CONCLUSIONES
+•	Una de las conclusiones que podemos rescatar es que la correcta identificación de nuestro segmento objetivo fue de gran ayuda para enfocarnos principalmente en darle una experiencia satisfactoria al usar nuestro servicio.
+•	Dada la tecnología needfinding, fue posible determinar las necesidades y deseos de los usuarios. De este modo, se desarrolla una aplicación web que satisface los requerimientos del usuario.
+•	Este informe ha proporcionado una visión detallada de lo que será nuestra aplicación para comprar componentes y/o periféricos y que den como parte de pago un producto usado que será con un fin benéfico.
+•	El desarrollo del Landing Page fue de mucha ayuda para que los usuarios puedan conocer mucha más sobre nuestro startup y de la finalidad de nuestra aplicación, si como también de la funcionalidad que tiene, y que, además, esa página muestra el equipo de desarrollo, quiene tomaron esta gran iniciativa para contribuir a la educación de los estudiantes.
+•	La creación de un prototipo de alta fidelidad no permite ver la aplicación en su totalidad desde una perspectiva de un usuario consumidor, que además nos ayudó a mejorar. También, nos permitió recolectar comentarios de los usuarios entrevistados para poder realizar los cambios necesarios y ofrecer una mejor experiencia para los usuarios.
+•	La metodología de desarrollo realizada en sprints sugiere una estructura de proyecto ágil, lo que facilita la adaptación a los posibles cambios y permite al equipo de desarrollo mantener un ritmo constante y organizado.
+•	Prime Vue ofrece una variedad de componentes de interfaz de usuario personalizable y moderno, lo que mejora la usabilidad y estética de la aplicación a desarrollar.
+•	El desarrollo de XComponent proporciona una valiosa experiencia en el uso de tecnologías modernas. Esto puede contribuir al crecimiento profesional y al entrenamiento de habilidades del equipo de desarrollo.
+El desarrollo de esta aplicación representa una herramienta valiosa para los clientes que buscan adquirir componentes tecnológicos de forma asequible y que desean utilizar componentes en buen estado como método de pago. Para asegurar su éxito, es esencial llevar a cabo un proceso de desarrollo y una implementación meticulosa, respaldados por una estrategia de marketing efectiva para atraer a los usuarios. Con el enfoque correcto y una atención minuciosa a los detalles, esta aplicación tiene el potencial de simplificar en gran medida el proceso de compra y venta de componentes tecnológicos usados, beneficiando tanto a compradores como a vendedores.
+BIBLIOGRAFÍA
+•	Sustainable Cycles (SCTCLE) Programme. (2020).  The Global E-waste Monitor 2020- Quantitiesm flows, and the circular economy potential. Recuperado de: https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
+•	Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de: https://www.facebook.com/MinamPeru/posts/10156008189124973/ [Consulta: 27/08/2023]
+•	Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wp-content/uploads/2011/04/diagnostico-raee.pdf  [Consulta: 27/08/2023]
 
-### Conclusiones y recomendaciones
-- Una de las conclusiones que podemos rescatar es que la correcta identificación de nuestro segmento objetivo fue de gran ayuda para enfocarnos principalmente en darle una experiencia satisfactoria al usar nuestro servicio.
-
-- Dada la tecnología needfinding, fue posible determinar las necesidades y deseos de los usuarios. De este modo, se desarrolla una aplicación web que satisface los requerimientos del usuario.
-
-- Este informe ha proporcionado una visión detallada de lo que será nuestra aplicación para comprar componentes y/o periféricos y que den como parte de pago un producto usado que será con un fin benéfico.
-
-- El desarrollo del Landing Page fue de mucha ayuda para que los usuarios puedan conocer mucha más sobre nuestro startup y de la finalidad de nuestra aplicación, si como también de las funcionalidades que tiene, y que además, esa página muestra el equipo de desarrollo, quienes tomaron esta gran iniciativa para contribuir a la educación de los estudiantes.
-
-# Video About-the-Team
-
-Link:https://youtu.be/6SEKvJFTB6E
-
-
-
-
-# BIBLIOGRAFÍA
-
-Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wp-content/uploads/2011/04/diagnostico-raee.pdf  [Consulta: 27/08/2023]
-
-Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de: https://www.facebook.com/MinamPeru/posts/10156008189124973/ [Consulta: 27/08/2023]
-
-Sustainable Cycles (SCTCLE) Programme. (2020).  The Global E-waste Monitor 2020- Quantitiesm flows, and the circular economy potential. Recuperado de: https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
-
+# ANEXOS
+•	Enlace del despliegue, en github pages maybe https://appwep-grupo3.github.io/Grupo02/ 
+•	Enlace del repositorio de github https://github.com/AppWep-Grupo3/Grupo02 
+•	Enlace de nuestro Landing Page https://appwep-grupo3.github.io/Grupo02/ 
+•	Enlace de database Diagram https://my.vertabelo.com/doc/ctEW8pklxW1zLiGyIllUJvc88faqZdqC
+•	Enlace de Class Diagrams https://lucid.app/lucidchart/999fc1fb-dd5f-4d94-8a0e-89677467d5f8/edit?viewport_loc=972%2C411%2C2855%2C1087%2C0_0&invitationId=inv_a55de5ed-eae4-469b-92d0-d982fe85e10a
+•	Web Style Guidelines:  https://www.figma.com/file/O6WxMvh0wV159MV9VHNwbQ/Untitled?type=design&node-id=0-1&mode=design&t=DTikcpMaQQS8KLgC-0
 
