@@ -837,12 +837,11 @@ Lo siguiente corresponde a la guía para la versión web. Se puede visualizar co
 
 *Buttons & Slider Interactive Elements del General Style Guidelines*
 [![Captura-de-pantalla-2023-09-09-205033.png](https://i.postimg.cc/SxTYJx87/Captura-de-pantalla-2023-09-09-205033.png)](https://postimg.cc/nXmhWZ3C)
-
 *Form Elements del General Style Guidelines*
-[![Captura-de-pantalla-2023-09-09-205038.png](https://i.postimg.cc/yNDg9Cyq/Captura-de-pantalla-2023-09-09-205038.png)](https://postimg.cc/1gZ3hTdM)
 
 **4.2. Information Architecture.**
 En esta sección detallaremos, analizaremos y sustentamos todas las decisiones del diseño que tomamos durante el desarrollo del presente proyecto. También, explicaremos las propuestas del diseño de nuestra aplicación y landing page para facilitar la adaptación e interacción del usuario.
+[![Captura-de-pantalla-2023-09-09-205038.png](https://i.postimg.cc/yNDg9Cyq/Captura-de-pantalla-2023-09-09-205038.png)](https://postimg.cc/1gZ3hTdM)
 
 **4.2.1. Organization Systems.**
 Para la elaboración de la arquitectura y diseño de la información del landing page y de la página web, se decidió usar el formato jerárquico. Esto con la  finalidad de una fácil navegación y comodidad para el usuario.
@@ -903,6 +902,10 @@ En relación a nuestro Landing Page, será lo primero que verá el usuario, ya a
 [![Captura-de-pantalla-2023-09-09-205130.png](https://i.postimg.cc/bNLsBw6c/Captura-de-pantalla-2023-09-09-205130.png)](https://postimg.cc/TpLdyfMC)
 
 **4.3.2. Landing Page Mock-up.** 
+En las siguientes imágenes se pueden apreciar los Mock-ups de la landing page, considerando la estructura trabajada previamente en los wireframes. 
+Se realizaron en Figma: https://acortar.link/fiZGSg
+
+
 **4.4. Web Applications UX/UI Design.** 
 **4.4.1. Web Applications Wireframes.**
 [![Captura-de-pantalla-2023-09-09-205137.png](https://i.postimg.cc/qMpNw3xx/Captura-de-pantalla-2023-09-09-205137.png)](https://postimg.cc/s10fD18M)
@@ -912,6 +915,22 @@ En relación a nuestro Landing Page, será lo primero que verá el usuario, ya a
 El usuario inicia en la pantalla de registro, en la cual se solicitan los datos de usuario como correo y contraseña. si el usuario llena todos los campos solicitados con datos válidos, acepta los términos y condiciones y hace click en el botón de "Crear cuenta", aparecerá un formulario y deberá de completar con sus datos personales todos los campos y finalmente le aparecerá un mensaje de "REGISTRO EXITOSO". De lo contrario, le mostara un mensaje de un mensaje de "correo o contraseña son invalidos" o  "Hay campos incompletos" y con señales de mensaje de color rojo.
 
 [![Captura-de-pantalla-2023-09-09-205145.png](https://i.postimg.cc/2SK3CXR0/Captura-de-pantalla-2023-09-09-205145.png)](https://postimg.cc/sM53cm2W)
+
+PRODUCTOS DISPONIBLES | PRODUCTOS NO DISPONIBLES
+[![Imagen9.png](https://i.postimg.cc/WpWxT6Mv/Imagen9.png)](https://postimg.cc/dDC59CHH)
+
+DETALLES | VER DETALLES DE LOS PRODUCTOS
+[![Imagen10.png](https://i.postimg.cc/fyLFYJQp/Imagen10.png)](https://postimg.cc/sQkwrfX4)
+
+FILTRAR POR MARCA EL PRODUCTO | COMPRAR
+[![Imagen11.png](https://i.postimg.cc/0jB4nP8Q/Imagen11.png)](https://postimg.cc/1VDM5xVh)
+
+AUTENTIFICACIÓN Y SUSCRIPCIONES
+[![Imagen12.png](https://i.postimg.cc/DZ5HW1H1/Imagen12.png)](https://postimg.cc/8JJt9f1C)
+
+GESTIÓN DE CUENTA DE USUARIO
+[![Imagen13.png](https://i.postimg.cc/L6JwXYTZ/Imagen13.png)](https://postimg.cc/qzdjD7Wk)
+[![Imagen14.png](https://i.postimg.cc/B6JRQmYq/Imagen14.png)](https://postimg.cc/Lq0xx3F7)
 
 **User Goal:** El usuario inicia sesion en la aplicacion
 Cuando el usuario ingrese su correo y contraseña de manera correcta y haga clic, le mostrará de un mensaje “BIENVENIDO A XCOMPONENTS” y cuando haga clic en aceptar habrá ingresado a la aplicación. De lo contrario le mostrará un mensaje “El correo o contraseña son incorrectos” y con señales de mensaje de color rojo.
@@ -942,8 +961,15 @@ Una vez el usuario seleccione la sección de perfil el botón situado en la part
 Una vez el usuario seleccione la sección de perfil el botón situado en la parte superior “Historial de compras”, entonces de haber realizado compras previamente, estas se muestran, de no existir compras previas a la consulta, se muestra un mensaje de “Parece que no hay nada por aquí, ¡Empieza a comprar!”
 
 [![Captura-de-pantalla-2023-09-09-205225.png](https://i.postimg.cc/DwHf9JLD/Captura-de-pantalla-2023-09-09-205225.png)](https://postimg.cc/jD6rNj8Q)
+**User Goal:** El usuario quiere ver detalles de los productos
+Cuando el usuario, busque un producto tendrá varias opciones las cuales son “Ver más detalles” o “Filtrar” (que consiste en filtrar por marcas, presupuesto, etc) de su preferencia. Tiene que hacer bien los detalles ya que, si no hay ningún producto con esas características, le saldrá error en la búsqueda.
+[![Imagen19.png](https://i.postimg.cc/k4VY5LNP/Imagen19.png)](https://postimg.cc/njJGRRw3)
 
 **4.4.3. Web Applications Mock-ups. 6/34 V1.0**
+GESTIÓN DE CUENTA DE USUARIO
+[![Imagen16.png](https://i.postimg.cc/fW9gQnTx/Imagen16.png)](https://postimg.cc/23CxntW6)
+El usuario visualiza la disponibilidad del producto y su detalle
+[![Imagen17.png](https://i.postimg.cc/L6FQHCnG/Imagen17.png)](https://postimg.cc/ThQJ0cjc)
 **4.4.4. Web Applications User Flow Diagrams.**
 **User Goal:** El usuario se registra en la aplicación
 El usuario inicia en la pantalla de registro, en la cual se solicitan los datos de usuario como correo y contraseña. si el usuario llena todos los campos solicitados con datos válidos, acepta los términos y condiciones y hace click en el botón de "Crear cuenta", aparecerá un formulario y deberá de completar con sus datos personales todos los campos y finalmente le aparecerá un mensaje de "REGISTRO EXITOSO". De lo contrario, le mostara un mensaje de un mensaje de "correo o contraseña son invalidos" o  "Hay campos incompletos" y con senales de mensaje de color rojo.
@@ -977,6 +1003,13 @@ Una vez el usuario seleccione la sección de perfil el botón situado en la part
 
 **User Goal:** El usuario visualiza el historial de compras
 Una vez el usuario seleccione la sección de perfil el botón situado en la parte superior “Historial de compras”, entonces de haber realizado compras previamente, estas se muestran, de no existir compras previas a la consulta, se muestra un mensaje de “Parece que no hay nada por aquí, ¡Empieza a comprar!”
+[![Imagen18.png](https://i.postimg.cc/wvSfRFFy/Imagen18.png)](https://postimg.cc/7GnMp3Fw)
+
+**User Goal:** El usuario quiere ver detalles de los productos
+Cuando el usuario, busque un producto tendrá varias opciones las cuales son “Ver más detalles” o “Filtrar” (que consiste en filtrar por marcas, presupuesto, etc) de su preferencia. Tiene que hacer bien los detalles ya que, si no hay ningún producto con esas características, le saldrá error en la búsqueda.
+[![Imagen19.png](https://i.postimg.cc/k4VY5LNP/Imagen19.png)](https://postimg.cc/njJGRRw3)
+
+Enlace Figma: https://www.figma.com/file/2D6GrWBBU2THf5Y8rgDU7T/Untitled?type=design&node-id=0%3A1&mode=design&t=nPlFirJdJbFcF56e-1 
 
 **4.5. Web Applications Prototyping.**
 aca se graba el video explicando la aplicacion en figma, osea se tienen que enlazar nms
