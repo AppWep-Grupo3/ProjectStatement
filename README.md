@@ -1404,7 +1404,7 @@ Enlace del video: https://upcedupe.sharepoint.com/:v:/s/AplicacionesWeb851/Ec9h0
 [![Imagen3.png](https://i.postimg.cc/FK5Vx2mZ/Imagen3.png)](https://postimg.cc/PCyDXVCp)
 [![Imagen4.png](https://i.postimg.cc/vZ6vfQRT/Imagen4.png)](https://postimg.cc/hXcxqRtR)
 
-5.2.2.8.	Team Collaboration Insights during Sprint
+#### 5.2.2.8.	Team Collaboration Insights during Sprint
 En el segundo Sprint, se emplearon herramientas como Visual Studio Code, GitHub Desktop y Git para llevar a cabo los registros de cambios. Inicialmente, un miembro del equipo efectuó el primer registro de cambios con el fin de establecer el repositorio. Posteriormente, el repositorio fue clonado utilizando Git, y se llevaron a cabo ajustes utilizando Visual Studio Code. Se crearon ramas específicas para estas modificaciones y, por último, se registraron los cambios mediante commits. Estos registros de cambios deben ser evaluados y revisados en el repositorio de GitHub.
 [![Imagen5.png](https://i.postimg.cc/MKfBrd9r/Imagen5.png)](https://postimg.cc/Vd15JBQj)
 [![Imagen6.png](https://i.postimg.cc/T24m9ZJD/Imagen6.png)](https://postimg.cc/4npm42Mf)
