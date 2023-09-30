@@ -1422,10 +1422,15 @@ En el segundo Sprint, se emplearon herramientas como Visual Studio Code, GitHub 
 •	Prime Vue ofrece una variedad de componentes de interfaz de usuario personalizable y moderno, lo que mejora la usabilidad y estética de la aplicación a desarrollar.
 •	El desarrollo de XComponent proporciona una valiosa experiencia en el uso de tecnologías modernas. Esto puede contribuir al crecimiento profesional y al entrenamiento de habilidades del equipo de desarrollo.
 El desarrollo de esta aplicación representa una herramienta valiosa para los clientes que buscan adquirir componentes tecnológicos de forma asequible y que desean utilizar componentes en buen estado como método de pago. Para asegurar su éxito, es esencial llevar a cabo un proceso de desarrollo y una implementación meticulosa, respaldados por una estrategia de marketing efectiva para atraer a los usuarios. Con el enfoque correcto y una atención minuciosa a los detalles, esta aplicación tiene el potencial de simplificar en gran medida el proceso de compra y venta de componentes tecnológicos usados, beneficiando tanto a compradores como a vendedores.
-BIBLIOGRAFÍA
-•	Sustainable Cycles (SCTCLE) Programme. (2020).  The Global E-waste Monitor 2020- Quantitiesm flows, and the circular economy potential. Recuperado de: https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
-•	Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de: https://www.facebook.com/MinamPeru/posts/10156008189124973/ [Consulta: 27/08/2023]
-•	Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wp-content/uploads/2011/04/diagnostico-raee.pdf  [Consulta: 27/08/2023]
+
+
+# BIBLIOGRAFÍA
+- Sustainable Cycles (SCTCLE) Programme. (2020).  The Global E-waste Monitor 2020- Quantitiesm flows, and the circular economy potential. Recuperado de: https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
+- Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de: https://www.facebook.com/MinamPeru/posts/10156008189124973/ [Consulta: 27/08/2023]
+- Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wp-content/uploads/2011/04/diagnostico-raee.pdf  [Consulta: 27/08/2023]
+
+
+
 
 # ANEXOS
 •	Enlace del despliegue, en github pages maybe https://appwep-grupo3.github.io/Grupo02/ 
