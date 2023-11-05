@@ -17,7 +17,7 @@ Sección SV51
 
 **Profesor:** Jaime Luis Escobar Aguirre
 
-**_INFORME DE TRABAJO FINAL - TB1_**
+**_INFORME DE TRABAJO FINAL - TB2_**
 
 **Startup:** XCompany
 
@@ -42,39 +42,41 @@ Tasayco, Javier Sebastian
 # Registro de Versiones del Informe
 
 <table>
-  <thead>
-    <tr>
-      <th>Versión</th>
-      <th>Fecha</th>
-      <th>Autor</th>
-      <th>Descripción de modificación</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>TB1</td>
-      <td>30/08/23</td>
-      <td>Todo el grupo</td>
-      <td>
-        <ul>
-          <li>Ítems de los capítulos: I, II, III y IV</li>
-          <li>Software Configuration Management</li>
-          <li>Desarrollo de sprint 1</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>TP</td>
-      <td>30/09/2023</td>
-      <td>Todo el grupo</td>
-      <td>
-        <ul>
-          <li>Sprint 2</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
+  <tr>
+    <th>Versión</th>
+    <th>Fecha</th>
+    <th>Autor</th>
+    <th>Descripción de modificación</th>
+  </tr>
+  <tr>
+    <td>TB1</td>
+    <td>30/08/23</td>
+    <td>Todo el grupo</td>
+    <td>
+      - Ítems de los capítulos: I, II, III y IV
+      - Software Configuration Management
+      - Desarrollo de sprint 1
+    </td>
+  </tr>
+  <tr>
+    <td>TP</td>
+    <td>30/09/2023</td>
+    <td>Todo el grupo</td>
+    <td>
+      - Sprint 2
+    </td>
+  </tr>
+  <tr>
+    <td>TB2</td>
+    <td>01/11/2023</td>
+    <td>Todo el grupo</td>
+    <td>
+      - Actualizar Wireframes, mockups
+      - Sprint 3
+    </td>
+  </tr>
 </table>
+
 
 
 ---
@@ -88,364 +90,108 @@ Link de repositorio Github: https://github.com/AppWep-Grupo3/Grupo02
 # Contenido
 
 ## Tabla de contenidos
-<table>
-  <tr>
-    <td>REGISTRO DE VERSIONES DEL INFORME</td>
-    <td>2</td>
-  </tr>
-  <tr>
-    <td>STUDENT OUTCOME</td>
-    <td>5</td>
-  </tr>
-  <tr>
-    <td>CAPÍTULO I: INTRODUCCIÓN</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>1.1. Startup Profile</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>1.1.1. Descripción de la Startup</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>1.1.2. Perfiles de integrantes del equipo</td>
-    <td>7</td>
-  </tr>
-  <tr>
-    <td>1.2. Solution Profile</td>
-    <td>8</td>
-  </tr>
-  <tr>
-    <td>1.2.1. Antecedentes y problemática</td>
-    <td>9</td>
-  </tr>
-  <tr>
-    <td>1.2.2. Lean UX Process</td>
-    <td>9</td>
-  </tr>
-  <tr>
-    <td>1.2.2.1. Lean UX Problem Statements</td>
-    <td>9</td>
-  </tr>
-  <tr>
-    <td>1.2.2.2. Lean UX Assumptions</td>
-    <td>10</td>
-  </tr>
-  <tr>
-    <td>1.2.2.3. Lean UX Hypothesis Statements</td>
-    <td>11</td>
-  </tr>
-  <tr>
-    <td>1.2.2.4. Lean UX Canvas</td>
-    <td>11</td>
-  </tr>
-  <tr>
-    <td>1.3. Segmentos objetivo</td>
-    <td>11</td>
-  </tr>
-  <tr>
-    <td>CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS</td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td>2.1. Competidores</td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td>2.1.1. Análisis Competitivo</td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td>2.1.2. Estrategias Y Tácticas Frente A Competidores</td>
-    <td>14</td>
-  </tr>
-  <tr>
-    <td>2.2. Entrevistas</td>
-    <td>14</td>
-  </tr>
-  <tr>
-    <td>2.2.1. Diseño De Entrevistas</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td>2.2.2. Registro De Entrevistas</td>
-    <td>15</td>
-  </tr>
-  <tr>
-    <td>2.2.3. Análisis De Entrevistas</td>
-    <td>16</td>
-  </tr>
-  <tr>
-    <td>2.3. Needfinding</td>
-    <td>16</td>
-  </tr>
-  <tr>
-    <td>2.3.1. User Personas</td>
-    <td>17</td>
-  </tr>
-  <tr>
-    <td>2.3.2. User Task Matrix</td>
-    <td>17</td>
-  </tr>
-  <tr>
-    <td>2.3.3. User Journey Mapping</td>
-    <td>17</td>
-  </tr>
-  <tr>
-    <td>2.3.4. Empathy Mapping</td>
-    <td>18</td>
-  </tr>
-  <tr>
-    <td>2.3.5. As-Is Scenario Mapping</td>
-    <td>18</td>
-  </tr>
-  <tr>
-    <td>CAPÍTULO III: REQUIREMENTS SPECIFICATION</td>
-    <td>19</td>
-  </tr>
-  <tr>
-    <td>3.1. To-Be Scenario Mapping</td>
-    <td>19</td>
-  </tr>
-  <tr>
-    <td>3.2. User Stories</td>
-    <td>19</td>
-  </tr>
-  <tr>
-    <td>3.3. Impact Mappin</td>
-    <td>23</td>
-  </tr>
-  <tr>
-    <td>3.4. Product Backlog</td>
-    <td>23</td>
-  </tr>
-  <tr>
-    <td>CAPÍTULO IV: PRODUCT DESIGN</td>
-    <td>25</td>
-  </tr>
-  <tr>
-    <td>4.1. Style Guidelines</td>
-    <td>25</td>
-  </tr>
-  <tr>
-    <td>4.1.1. General Style Guidelines</td>
-    <td>25</td>
-  </tr>
-  <tr>
-    <td>4.1.2. Web Style Guidelines</td>
-    <td>25</td>
-  </tr>
-  <tr>
-    <td>4.2. Information Architecture</td>
-    <td>27</td>
-  </tr>
-  <tr>
-    <td>4.2.1. Organization Systems</td>
-    <td>28</td>
-  </tr>
-  <tr>
-    <td>4.2.2. Labeling Systems</td>
-    <td>28</td>
-  </tr>
-  <tr>
-    <td>4.2.3. Seo Tags And Meta Tags</td>
-    <td>28</td>
-  </tr>
-  <tr>
-    <td>4.2.4. Searching Systems</td>
-    <td>29</td>
-  </tr>
-  <tr>
-    <td>4.2.5. Navigation Systems</td>
-    <td>29</td>
-  </tr>
-  <tr>
-    <td>4.3. Landing Page Ui Design</td>
-    <td>30</td>
-  </tr>
-  <tr>
-    <td>4.3.1. Landing Page Wireframe</td>
-    <td>30</td>
-  </tr>
-  <tr>
-    <td>4.3.2. Landing Page Mock-Up</td>
-    <td>31</td>
-  </tr>
-  <tr>
-    <td>4.4. Web Applications Ux/Ui Design</td>
-    <td>31</td>
-  </tr>
-  <tr>
-    <td>4.4.1. Web Applications Wireframes</td>
-    <td>31</td>
-  </tr>
-  <tr>
-    <td>4.4.2. Web Applications Wireflow Diagrams</td>
-    <td>34</td>
-  </tr>
-  <tr>
-    <td>4.4.3. Web Applications Mock-Ups</td>
-    <td>38</td>
-  </tr>
-  <tr>
-    <td>4.4.4. Web Applications User Flow Diagrams</td>
-    <td>39</td>
-  </tr>
-  <tr>
-    <td>4.5. Web Applications Prototyping</td>
-    <td>43</td>
-  </tr>
-  <tr>
-    <td>4.6. Domain-driven software architecture</td>
-    <td>44</td>
-  </tr>
-  <tr>
-    <td>4.6.1. Software Architecture Context Diagram</td>
-    <td>44</td>
-  </tr>
-  <tr>
-    <td>4.6.2. Software Architecture Container Diagrams</td>
-    <td>44</td>
-  </tr>
-  <tr>
-    <td>4.6.3. Software Architecture Components Diagrams</td>
-    <td>45</td>
-  </tr>
-  <tr>
-    <td>4.7. Software Object-Oriented Design</td>
-    <td>47</td>
-  </tr>
-  <tr>
-    <td>4.7.1. Class Diagrams</td>
-    <td>47</td>
-  </tr>
-  <tr>
-    <td>4.7.2. Class Dictionary</td>
-    <td>47</td>
-  </tr>
-  <tr>
-    <td>4.8. Database Design</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>4.8.1. Database Diagram</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</td>
-    <td>51</td>
-  </tr>
-  <tr>
-    <td>5.1. Software configuration management</td>
-    <td>51</td>
-  </tr>
-  <tr>
-    <td>5.1.1. Software development environment configuration</td>
-    <td>51</td>
-  </tr>
-  <tr>
-    <td>5.1.2. Source code management</td>
-    <td>51</td>
-  </tr>
-  <tr>
-    <td>5.1.3. Source code style guide & conventions</td>
-    <td>52</td>
-  </tr>
-  <tr>
-    <td>5.1.4. Software deployment configuration</td>
-    <td>52</td>
-  </tr>
-  <tr>
-    <td>5.2. Landing page, services & applications implementation</td>
-    <td>54</td>
-  </tr>
-  <tr>
-    <td>5.2.1. Sprint 1</td>
-    <td>54</td>
-  </tr>
-  <tr>
-    <td>5.2.1.1. Sprint planning 1</td>
-    <td>54</td>
-  </tr>
-  <tr>
-    <td>5.2.1.2. Sprint backlog 1</td>
-    <td>54</td>
-  </tr>
-  <tr>
-    <td>5.2.1.3. Development evidence for sprint review</td>
-    <td>55</td>
-  </tr>
-  <tr>
-    <td>5.2.1.4. Testing suite evidence for sprint review</td>
-    <td>55</td>
-  </tr>
-  <tr>
-    <td>5.2.1.5. Execution evidence for sprint review</td>
-    <td>55</td>
-  </tr>
-  <tr>
-    <td>5.2.1.6. Services documentation evidence for sprint review</td>
-    <td>55</td>
-  </tr>
-  <tr>
-    <td>5.2.1.7. Software deployment evidence for sprint review</td>
-    <td>56</td>
-  </tr>
-  <tr>
-    <td>5.2.1.8. Team collaboration insights during sprint</td>
-    <td>56</td>
-  </tr>
-  <tr>
-    <td>5.2.2. Sprint 2</td>
-    <td>57</td>
-  </tr>
-  <tr>
-    <td>5.2.2.1. Sprint Planning 2</td>
-    <td>57</td>
-  </tr>
-  <tr>
-    <td>5.2.2.2. Sprint Backlog 2</td>
-    <td>57</td>
-  </tr>
-  <tr>
-    <td>5.2.2.3. Development Evidence for Sprint Review</td>
-    <td>58</td>
-  </tr>
-  <tr>
-    <td>5.2.2.4. Testing Suite Evidence for Sprint Review</td>
-    <td>58</td>
-  </tr>
-  <tr>
-    <td>5.2.2.5. Execution Evidence for Sprint Review</td>
-    <td>58</td>
-  </tr>
-  <tr>
-    <td>5.2.2.6. Services Documentation Evidence for Sprint Review</td>
-    <td>58</td>
-  </tr>
-  <tr>
-    <td>5.2.2.7. Software Deployment Evidence for Sprint Review</td>
-    <td>59</td>
-  </tr>
-  <tr>
-    <td>5.2.2.8. Team Collaboration Insights during Sprint</td>
-    <td>59</td>
-  </tr>
-  <tr>
-    <td>CONCLUSIONES</td>
-    <td>61</td>
-  </tr>
-  <tr>
-    <td>BIBLIOGRAFÍA</td>
-    <td>61</td>
-  </tr>
-  <tr>
-    <td>ANEXOS</td>
-    <td>62</td>
-  </tr>
-</table>
+
+- CAPÍTULO I: INTRODUCCIÓN	
+- 1.1.	Startup Profile	
+- 1.1.1.	Descripción de la Startup	
+- 1.1.2.	Perfiles de integrantes del equipo	
+- 1.2.	Solution Profile	
+- 1.2.1.	Antecedentes y problemática	
+- 1.2.2.	Lean UX Process	
+- 1.2.2.1.	Lean UX Problem Statements	
+- 1.2.2.2.	Lean UX Assumptions	
+- 1.2.2.3.	Lean UX Hypothesis Statements	
+- 1.2.2.4.	Lean UX Canvas	
+- 1.3.	Segmentos objetivo
+- CAPÍTULO II: REQUIREMENTS ELICITATION & ANALYSIS	
+- 2.1.	Competidores
+- 2.1.1.	Análisis Competitivo	
+- 2.1.2.	Estrategias Y Tácticas Frente A Competidores	
+- 2.2.	Entrevistas	
+- 2.2.1.	Diseño De Entrevistas	
+- 2.2.2.	Registro De Entrevistas	
+- 2.2.3.	Análisis De Entrevistas	
+- 2.3.	Needfinding	
+- 2.3.1.	User Personas	
+- 2.3.2.	User Task Matrix	
+- 2.3.3.	User Journey Mapping	
+- 2.3.4.	Empathy Mapping
+- 2.3.5.	As-Is Scenario Mapping	
+- CAPÍTULO III: REQUIREMENTS SPECIFICATION	
+- 3.1.	To-Be Scenario Mapping	
+- 3.2.	User Stories	
+- 3.3.	Impact Mappin	
+- 3.4.	Product Backlog	
+- CAPÍTULO IV: PRODUCT DESIGN	
+- 4.1.	Style Guidelines	
+- 4.1.1.	General Style Guidelines	
+- 4.1.2.	Web Style Guidelines	
+- 4.2.	Information Architecture	
+- 4.2.1.	Organization Systems	
+- 4.2.2.	Labeling Systems	
+- 4.2.3.	Seo Tags And Meta Tags	
+- 4.2.4.	Searching Systems	
+- 4.2.5.	Navigation Systems	
+- 4.3.	Landing Page Ui Design	
+- 4.3.1.	Landing Page Wireframe	
+- 4.3.2.	Landing Page Mock-Up	
+- 4.4.	Web Applications Ux/Ui Design	
+- 4.4.1.	Web Applications Wireframes	
+- 4.4.2.	Web Applications Wireflow Diagrams	
+- 4.4.3.	Web Applications Mock-Ups	
+- 4.4.4.	Web Applications User Flow Diagrams	
+- 4.5.	Web Applications Prototyping	
+- 4.6.	Domain-driven software architecture	
+- 4.6.1.	Software Architecture Context Diagram	
+- 4.6.2.	Software Architecture Container Diagrams	
+- 4.6.3.	Software Architecture Components Diagrams	
+- 4.7.	Software Object-Oriented Design	
+- 4.7.1.	Class Diagrams	
+- 4.7.2.	Class Dictionary	
+- 4.8.	Database Design	
+- 4.8.1.	Database Diagram	
+- CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT	
+- 5.1.	Software configuration management	
+- 5.1.1.	Software development environment configuration	
+- 5.1.2.	Source code management	
+- 5.1.3.	Source code style guide & conventions	
+- 5.1.4.	Software deployment configuration	
+- 5.2.	Landing page, services & applications implementation	
+- 5.2.1.	Sprint 1	
+- 5.2.1.1.	Sprint planning 1	
+- 5.2.1.2.	Sprint backlog 1	
+- 5.2.1.3.	Development evidence for sprint review	
+- 5.2.1.4.	Testing suite evidence for sprint review	
+- 5.2.1.5.	Execution evidence for sprint review	
+- 5.2.1.6.	Services documentation evidence for sprint review	
+- 5.2.1.7.	Software deployment evidence for sprint review	
+- 5.2.1.8.	Team collaboration insights during sprint	
+- 5.2.2.	Sprint 2	
+- 5.2.2.1.	Sprint Planning 2	
+- 5.2.2.2.	Sprint Backlog 2	
+- 5.2.2.3.	Development Evidence for Sprint Review	
+- 5.2.2.4.	Testing Suite Evidence for Sprint Review	
+- 5.2.2.5.	Execution Evidence for Sprint Review	
+- 5.2.2.6.	Services Documentation Evidence for Sprint Review	
+- 5.2.2.7.	Software Deployment Evidence for Sprint Review.	
+- 5.2.2.8.	Team Collaboration Insights during Sprint	
+- 5.2.3.	Sprint 3	
+- 5.2.3.1.	Spring Planning 3	
+- 5.2.3.2.	Sprint Backlog 3	
+- 5.2.3.3.	Development Evidence for Sprint Review	
+- 5.2.3.4.	Testing Suite Evidence for Sprint Review	
+- 5.2.3.5.	Execution Evidence for Sprint Review	
+- 5.2.3.6.	Services Documentation Evidence for Sprint Review	
+- 5.2.3.7.	Software Deployment Evidence for Sprint Review	
+- 5.2.3.8.	Team Collaboration Insights during Sprint	
+- 5.3.	Validation Interviews	
+- 5.3.1.	Diseño de Entrevistas	
+- 5.3.2.	Registro de Entrevistas	
+- 5.3.3.	Evaluaciones según heurísticas	
+- 5.4.	Video About-the-Product	
+- CONCLUSIONES	
+- BIBLIOGRAFÍA	
+- ANEXOS	
 
 ---
 
@@ -461,8 +207,8 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-[![Captura-de-pantalla-2023-09-30-160120.png](https://i.postimg.cc/k53BZC22/Captura-de-pantalla-2023-09-30-160120.png)](https://postimg.cc/Wd8NFQ6V)
-[![Captura-de-pantalla-2023-09-30-160516.png](https://i.postimg.cc/N0dvX7vQ/Captura-de-pantalla-2023-09-30-160516.png)](https://postimg.cc/1gVdhFzd)
+[![Criterio-espec-fico-page-0001.jpg](https://i.postimg.cc/VLsnnFHd/Criterio-espec-fico-page-0001.jpg)](https://postimg.cc/Z0gWh6mS)
+[![Criterio-espec-fico-page-0002.jpg](https://i.postimg.cc/vZcnSZyy/Criterio-espec-fico-page-0002.jpg)](https://postimg.cc/QFZVFsVY)
 ---
 # Capitulo 1 : Introducción  
 ## 1.1 Startup profile  
@@ -1411,8 +1157,752 @@ En el segundo Sprint, se emplearon herramientas como Visual Studio Code, GitHub 
 [![Imagen7.png](https://i.postimg.cc/NF5Xt4BF/Imagen7.png)](https://postimg.cc/9wH0ty4H)
 [![Imagen8.png](https://i.postimg.cc/FzdY8HVJ/Imagen8.png)](https://postimg.cc/1VSRNPT9)
 
+### 5.2.3. Sprint 3
+#### 5.2.3.1. Sprint Planning
 
-# CONCLUSIONES
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 3</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Background</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2023-10-19</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>08:00 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Google Meet</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>Anthony Avalos</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <ul>
+        <li>Alexis Vargas Quispe</li>
+        <li>Anthony Avalos Santos</li>
+        <li>Giakomo Causso</li>
+        <li>Javier Sebastian</li>
+        <li>Mariela Martinez Carbajal</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint n - 1 Review Summary</th>
+    <td>Se desarrollaron satisfactoriamente las tareas asignadas</td>
+  </tr>
+  <tr>
+    <th>Sprint n - 1 Retrospective Summary</th>
+    <td>Replantear los tiempos de entrega de avances</td>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Sprint 3 Goal</th>
+    <td>Implementar las funcionalidades restantes dado las historias de usuario planteados en el product backlog</td>
+  </tr>
+  <tr>
+    <th>Sprint 3 Velocity</th>
+    <td>Los Story Points aceptados por el equipo en el presente Sprint es de 15</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>La suma de Story Points para el Sprint es de 15</td>
+  </tr>
+</table>
+
+#### 5.2.3.2.	Sprint Backlog 2
+
+<table>
+  <tr>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To-do / InProcess / ToReview / Done)</th>
+  </tr>
+  <tr>
+    <td>US09</td>
+    <td>Subir imágenes de producto usado</td>
+    <td>Implementar vista imágenes de subproductos</td>
+    <td>3</td>
+    <td>Mariela Martinez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WT01</td>
+    <td>Implementar vista imágenes de subproductos</td>
+    <td>Implementar la vista que permita receptar las imágenes del producto a emplear como descuento</td>
+    <td>3</td>
+    <td>Mariela Martinez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WT02</td>
+    <td>Implementar el formulario de subproducto</td>
+    <td>Implementar el formulario que permita describir a detalle el subproducto</td>
+    <td>2</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WT03</td>
+    <td>Almacenar la información de subproductos</td>
+    <td>Almacenar la información recopilada de imágenes y detalles del subproducto para su revisión</td>
+    <td>2</td>
+    <td>InProcess</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>US12 & US15</td>
+    <td>Actualizar Perfil</td>
+    <td>Implementar el formulario para nuevos datos</td>
+    <td>2</td>
+    <td>Javier Sebastian</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WT05</td>
+    <td>Almacenar la información de usuario</td>
+    <td>Realizar la actualización de los datos del usuario para su posterior manejo</td>
+    <td>2</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Añadir un método de pago</td>
+    <td>Implementar el formulario para método de pago</td>
+    <td>4</td>
+    <td>Alexis Vargas</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WT07</td>
+    <td>Almacenar la información de método de pago</td>
+    <td>Almacenar la información del método de pago asociado a un usuario</td>
+    <td>2</td>
+    <td></td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US19</td>
+    <td>Seleccionar método de pago</td>
+    <td>Implementar la selección de métodos de pago que posea un usuario</td>
+    <td>3</td>
+    <td>Giakomo Causso</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US00</td>
+    <td>-</td>
+    <td>Implementar y dar soporte a funcionalidades varias del frontend</td>
+    <td>4</td>
+    <td>Anthony Avalos</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+#### 5.2.3.3.Development Evidence for Sprint Review
+
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Commited on (Date)</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AppWep-Grupo3/XComponent-Web.git">https://github.com/AppWep-Grupo3/XComponent-Web.git</a>
+    </td>
+    <td>feature/US04</td>
+    <td>1da162dd2c14e0014aa65b575b4f0039556753ff</td>
+    <td>fix: add Dockerfile</td>
+    <td>fix: add Dockerfile</td>
+    <td>04/11/23</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AppWep-Grupo3/XComponent-Web.git">https://github.com/AppWep-Grupo3/XComponent-Web.git</a>
+    </td>
+    <td>feature/US12</td>
+    <td>f530b4619bce2c733d8999bdceb78deacb2d8684</td>
+    <td>fix: Update RegisterController</td>
+    <td>fix: Update RegisterController</td>
+    <td>27/10/23</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AppWep-Grupo3/XComponent-Web.git">https://github.com/AppWep-Grupo3/XComponent-Web.git</a>
+    </td>
+    <td>feature/US03</td>
+    <td>2ff59124fa9df828572cce0a17a3531836c92329</td>
+    <td>fix: Update OrderController</td>
+    <td>fix: Update OrderController</td>
+    <td>02/11/23</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AppWep-Grupo3/XComponent-Web.git">https://github.com/AppWep-Grupo3/XComponent-Web.git</a>
+    </td>
+    <td>feature/US60</td>
+    <td>dee9afb69b69622729cdf2a1534cfa008ed25857</td>
+    <td>fix: Update UserController</td>
+    <td>fix: Update UserController</td>
+    <td>01/11/23</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AppWep-Grupo3/XComponent-Web.git">https://github.com/AppWep-Grupo3/XComponent-Web.git</a>
+    </td>
+    <td>/feature/US02</td>
+    <td>3f670b78faf4595f67117148e63d6d4dd8306f35</td>
+    <td>fix: add OrderDetails</td>
+    <td>fix: add OrderDetails</td>
+    <td>01/11/23</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/AppWep-Grupo3/XComponent-Web.git">https://github.com/AppWep-Grupo3/XComponent-Web.git</a>
+    </td>
+    <td>/develop</td>
+    <td>8d165bc3cb06a085698d90108f7ab0b614f94d31</td>
+    <td>fix: Update-Entities</td>
+    <td>fix: Update-Entities</td>
+    <td>01/11/23</td>
+  </tr>
+</table>
+
+#### 5.2.3.4.Testing Suite Evidence for Sprint Review
+1. Ver producto (GET)
+Request:http://localhost:5172/api/v1/product
+Response:
+
+[![Captura-de-pantalla-2023-11-05-132248.png](https://i.postimg.cc/90500TQB/Captura-de-pantalla-2023-11-05-132248.png)](https://postimg.cc/8J4Nn7WF)
+
+2. Crear producto (POST)
+Request:http://localhost:5172/api/v1/product
+Response:
+
+[![Captura-de-pantalla-2023-11-05-132417.png](https://i.postimg.cc/sxmzzZQx/Captura-de-pantalla-2023-11-05-132417.png)](https://postimg.cc/vx4kLTvw)
+
+3. Actualizar Producto (PUT)
+Request:http://localhost:5172/api/v1/product/1
+Response:
+
+[![Captura-de-pantalla-2023-11-05-132601.png](https://i.postimg.cc/cLVVVc9T/Captura-de-pantalla-2023-11-05-132601.png)](https://postimg.cc/FYVWS0QJ)
+
+4. Eliminar Producto (DELETE)
+Request: http://localhost:5172/api/v1/product/1
+Response:
+
+[![Captura-de-pantalla-2023-11-05-132659.png](https://i.postimg.cc/dVTfmysC/Captura-de-pantalla-2023-11-05-132659.png)](https://postimg.cc/QFhSjVWN)
+
+5. Ver usuarios registrados (GET)
+Request: http://localhost:5172/api/v1/user
+Response:
+
+[![Captura-de-pantalla-2023-11-05-132806.png](https://i.postimg.cc/sxkP62y2/Captura-de-pantalla-2023-11-05-132806.png)](https://postimg.cc/dZ9TDwhM)
+
+6. Ver usuario registrado para el login (GET)
+Request: http://localhost:5172/api/v1/user/find
+Response:
+No se realizó el testing
+
+7. Crea y retorna el usuario creado exitosamente (POST)
+Request: http://localhost:5172/api/v1/user
+Response:
+
+[![Captura-de-pantalla-2023-11-05-132827.png](https://i.postimg.cc/ryrfW6qp/Captura-de-pantalla-2023-11-05-132827.png)](https://postimg.cc/xq9GD4Jr)
+
+
+8. Actualiza la información del usuario por el ID (PUT)
+Request: http://localhost:5172/api/v1/user/1
+Response:
+
+[![Captura-de-pantalla-2023-11-05-133058.png](https://i.postimg.cc/9fH7vkvL/Captura-de-pantalla-2023-11-05-133058.png)](https://postimg.cc/JsK0Xp7X)
+
+9. Elimina el usuario por el ID (DELETE)
+Request: http://localhost:5172/api/v1/user/1
+Response:
+
+[![Captura-de-pantalla-2023-11-05-132907.png](https://i.postimg.cc/MKjXqD0N/Captura-de-pantalla-2023-11-05-132907.png)](https://postimg.cc/fJDMvYrf)
+
+10. Ver lista de órdenes registrados (GET)
+Request: http://localhost:5172/api/v1/order
+Response:
+
+[![Captura-de-pantalla-2023-11-05-132927.png](https://i.postimg.cc/8zp5MSgQ/Captura-de-pantalla-2023-11-05-132927.png)](https://postimg.cc/0b4P1hNc)
+
+11. Crear orden (POST)
+Request: http://localhost:5172/api/v1/order
+Response:
+
+[![Captura-de-pantalla-2023-11-05-132945.png](https://i.postimg.cc/LhdP20J4/Captura-de-pantalla-2023-11-05-132945.png)](https://postimg.cc/JHq0Qx3S)
+
+12. Actualiza la orden por el ID (PUT)
+Request: http://localhost:5172/api/v1/order/1
+Response:
+
+[![Captura-de-pantalla-2023-11-05-133002.png](https://i.postimg.cc/VLS4w3Vw/Captura-de-pantalla-2023-11-05-133002.png)](https://postimg.cc/nCJqYwxS)
+
+13. Elimina la orden por el ID (DELETE)
+Request: http://localhost:5172/api/v1/user/order/1
+Response:
+
+[![Captura-de-pantalla-2023-11-05-132659.png](https://i.postimg.cc/dVTfmysC/Captura-de-pantalla-2023-11-05-132659.png)](https://postimg.cc/QFhSjVWN)
+
+14. Ver lista de detalles de órdenes registrador (GET)
+Request: http://localhost:5172/api/v1/orderdetail
+Response:
+
+[![Captura-de-pantalla-2023-11-05-133039.png](https://i.postimg.cc/vZbzncmY/Captura-de-pantalla-2023-11-05-133039.png)](https://postimg.cc/rKZxXyW3)
+
+15. Crea detalle de orden (POST)
+Request: http://localhost:5172/api/v1/orderdetail
+Response:
+
+[![Captura-de-pantalla-2023-11-05-133058.png](https://i.postimg.cc/9fH7vkvL/Captura-de-pantalla-2023-11-05-133058.png)](https://postimg.cc/JsK0Xp7X)
+
+16. Actualiza la información del detalle de la orden (PUT)
+Request: http://localhost:5172/api/v1/orderdetail/1
+Response:
+
+[![Captura-de-pantalla-2023-11-05-133119.png](https://i.postimg.cc/kgH2mpz0/Captura-de-pantalla-2023-11-05-133119.png)](https://postimg.cc/0zpkGc8n)
+
+17. Eliminar el detalle de la orden por el ID (DELETE)
+Request:http://localhost:5172/api/v1/orderdetail/1
+Response:
+
+[![Captura-de-pantalla-2023-11-05-133245.png](https://i.postimg.cc/KYL8yvnT/Captura-de-pantalla-2023-11-05-133245.png)](https://postimg.cc/CZhgG0rM)
+
+18. Ver lista de subproductos registrados (GET)
+Request:http://localhost:5172/api/v1/subproduct
+Response:
+No se realizó el testing
+
+19. Crea el subproducto (POST)
+Request:http://localhost:5172/api/v1/subproduct
+Response:
+
+[![Captura-de-pantalla-2023-11-05-133159.png](https://i.postimg.cc/FHC9Skx3/Captura-de-pantalla-2023-11-05-133159.png)](https://postimg.cc/rDWXXm3w)
+
+20. Ver lista de subproductos registrados con el ID (GET)
+Request:http://localhost:5172/api/v1/product/1
+Response:
+No se realizó el testing
+
+21. Actualiza el subproducto por el ID (PUT)
+Request:http://localhost:5172/api/v1/product/1
+Response:
+
+[![Captura-de-pantalla-2023-11-05-133220.png](https://i.postimg.cc/76H8QxXw/Captura-de-pantalla-2023-11-05-133220.png)](https://postimg.cc/Y4ssvBJs)
+
+22. Elimina el subproducto por el ID (DELETE)
+Request:http://localhost:5172/api/v1/product/1
+Response:
+
+[![Captura-de-pantalla-2023-11-05-133245.png](https://i.postimg.cc/KYL8yvnT/Captura-de-pantalla-2023-11-05-133245.png)](https://postimg.cc/CZhgG0rM)
+
+#### 5.2.3.5.	Execution Evidence for Sprint Review
+
+Durante el Tercer Sprint, logramos implementar funcionalidades pendientes del front-end. Una de estas, corresponde a la edición de los datos de un perfil. Asimismo. Por otro lado, en el backend, hemos desarrollado los servicios para las entidades clave, incluyendo Cart, Order, OrderDetail, Product, SubProduct y User.
+
+#### Fronted:
+
+Página visita de edición de cuenta
+
+[![Captura-de-pantalla-2023-11-05-133306.png](https://i.postimg.cc/zGZQczX6/Captura-de-pantalla-2023-11-05-133306.png)](https://postimg.cc/RNdG3ztL)
+
+Página vista de edición de cuenta realizada correctamente
+
+[![Captura-de-pantalla-2023-11-05-133322.png](https://i.postimg.cc/Cx4VCBHm/Captura-de-pantalla-2023-11-05-133322.png)](https://postimg.cc/213Jr5tZ)
+
+Página vista de edición de cuenta realizada incorrectamente debido a una contraseña de usuario inválida
+
+[![Captura-de-pantalla-2023-11-05-133340.png](https://i.postimg.cc/Lsr9Nys2/Captura-de-pantalla-2023-11-05-133340.png)](https://postimg.cc/0601N0mB)
+
+#### Backend:
+
+[![Captura-de-pantalla-2023-11-05-133403.png](https://i.postimg.cc/y8Gs8fcc/Captura-de-pantalla-2023-11-05-133403.png)](https://postimg.cc/FY02PVPH)
+[![Captura-de-pantalla-2023-11-05-133421.png](https://i.postimg.cc/Y9K71hXS/Captura-de-pantalla-2023-11-05-133421.png)](https://postimg.cc/f3K1sTQ4)
+
+#### 5.2.3.6.	Services Documentation Evidence for Sprint Review
+
+A continuación, se describen los alcances dados para el presente sprint. En primer lugar, un breve resumen de los servicios alcanzados.
+Los métodos GET user con parámetro de id están relacionados a la pantalla de Login, para verificar que el usuario existe y su posterior validación.
+Asimismo, los métodos POST user están relacionados a la pantalla de Register User para registrar la información tanto del cliente como de la empresa.
+Los métodos asociados a order y order detail están relacionados a la funcionalidad del carrito una vez se concrete una solicitud de compra dado un producto que se requiera comprar y los subproductos que de ser posible se den como método de descuento.
+El método GET all productos, están relacionados a la pantalla de Búsqueda de Componentes (HomePage), donde el usuario puede ver, mediante tarjetas, el repertorio de componentes a la venta, y cuando le da click a una de esta tarjeta puede acceder a la información del componente en específico.
+Los métodos relacionados al subproducto, están relacionados con el evento de integrar subproductos como método de descuento para el precio de un producto original.
+
+#### Tabla:
+   <table>
+  <tr>
+    <th>Endpoint</th>
+    <th>HTTP</th>
+    <th>Actions</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>/api/v1/product</td>
+    <td>GET</td>
+    <td>200 OK: Retorna la lista de productos registrados</td>
+    <td><a href="http://localhost:5172/api/v1/product">http://localhost:5172/api/v1/product</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/product</td>
+    <td>POST</td>
+    <td>201 Created: Crea y retorna el producto que se ha creado exitosamente</td>
+    <td><a href="http://localhost:5172/api/v1/product">http://localhost:5172/api/v1/product</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/product/{id}</td>
+    <td>PUT</td>
+    <td>200 OK: Actualiza y retorna la información del producto correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/product/1">http://localhost:5172/api/v1/product/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/product/{id}</td>
+    <td>DELETE</td>
+    <td>200 OK: Elimina y retorna la información del producto correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/product/1">http://localhost:5172/api/v1/product/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/user</td>
+    <td>GET</td>
+    <td>200 OK: Retorna la lista de usuarios registrados</td>
+    <td><a href="http://localhost:5172/api/v1/user">http://localhost:5172/api/v1/user</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/user/find</td>
+    <td>GET</td>
+    <td>200 OK: Retorna un usuario registrado para el login</td>
+    <td><a href="http://localhost:5172/api/v1/user/find">http://localhost:5172/api/v1/user/find</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/user</td>
+    <td>POST</td>
+    <td>201 Created: Crea y retorna el usuario que se ha creado exitosamente</td>
+    <td><a href="http://localhost:5172/api/v1/user">http://localhost:5172/api/v1/user</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/user/{id}</td>
+    <td>PUT</td>
+    <td>200 OK: Actualiza y retorna la información del usuario correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/user/1">http://localhost:5172/api/v1/user/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/user/{id}</td>
+    <td>DELETE</td>
+    <td>200 OK: Elimina y retorna el usuario correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/user/1">http://localhost:5172/api/v1/user/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/order</td>
+    <td>GET</td>
+    <td>200 OK: Retorna la lista de órdenes registrados</td>
+    <td><a href="http://localhost:5172/api/v1/order">http://localhost:5172/api/v1/order</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/order</td>
+    <td>POST</td>
+    <td>200 OK: Crea y retorna la orden creada exitosamente</td>
+    <td><a href="http://localhost:5172/api/v1/order">http://localhost:5172/api/v1/order</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/order/{id}</td>
+    <td>PUT</td>
+    <td>200 OK: Actualiza y retorna la orden correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/order/1">http://localhost:5172/api/v1/order/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/order/{id}</td>
+    <td>DELETE</td>
+    <td>200 OK: Elimina y retorna la orden correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/user/order/1">http://localhost:5172/api/v1/user/order/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/orderdetail</td>
+    <td>GET</td>
+    <td>200 OK: Retorna la lista de detalles de órdenes registrados</td>
+    <td><a href="http://localhost:5172/api/v1/orderdetail">http://localhost:5172/api/v1/orderdetail</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/orderdetail</td>
+    <td>POST</td>
+    <td>201 Created: Crea y retorna el detalle de orden que se ha creado exitosamente</td>
+    <td><a href="http://localhost:5172/api/v1/orderdetail">http://localhost:5172/api/v1/orderdetail</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/orderdetail/{id}</td>
+    <td>PUT</td>
+    <td>200 OK: Actualiza y retorna la información del detalle de orden correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/orderdetail/1">http://localhost:5172/api/v1/orderdetail/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/orderdetail/{id}</td>
+    <td>DELETE</td>
+    <td>200 OK: Elimina y retorna el detalle de orden correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/orderdetail/1">http://localhost:5172/api/v1/orderdetail/1</a></td>
+  </tr>
+</table>
+
+#### 5.2.3.7.	Software Deployment Evidence for Sprint Review
+
+Deploy de Landing Page: Se uso Github Pages
+Se puede encontrar en el siguiente enlace: https://appwep-grupo3.github.io/Grupo02/v
+
+[![Captura-de-pantalla-2023-11-05-133443.png](https://i.postimg.cc/bN8B1QpM/Captura-de-pantalla-2023-11-05-133443.png)](https://postimg.cc/23cGDLqF)
+
+Deploy Web Application: Para el despliegue de nuestra aplicación web se usó Vercel como host para exponerla a los usuarios. Esta plataforma nos garantiza un despliegue seguro y eficiente. Esta aplicación se puede encontrar en el siguiente enlace: https://x-component-web.vercel.app/home
+
+[![Captura-de-pantalla-2023-11-05-133503.png](https://i.postimg.cc/zf9dvhxx/Captura-de-pantalla-2023-11-05-133503.png)](https://postimg.cc/wtQ5b18N)
+
+Deploy Web Services: Para el despliegue de la API se usó la plataforma Render, la cual nos permite desplegar nuestra aplicación de forma gratuita. Pero solo usa ciertos lenguajes, es por eso que se dockerizo la aplicacion y asi exponer su imagen para su posterior despliegue: Esto nos permite tener un servicio web a la cual se puede acceder desde el siguiente enlace: https://xcomponentapirest.onrender.com/swagger/index.html
+
+[![Captura-de-pantalla-2023-11-05-133523.png](https://i.postimg.cc/ZnmVFSt3/Captura-de-pantalla-2023-11-05-133523.png)](https://postimg.cc/YGX6MTSq)
+
+#### 5.2.3.8.	Team Collaboration Insights during Sprint
+
+En el tercer Sprint, se emplearon herramientas como WebStorm, GitHub Desktop, JetBrains Rider y Git para llevar a cabo los registros de cambios. Inicialmente, un miembro del equipo efectuó el primer registro de cambios con el fin de establecer el repositorio. Posteriormente, el repositorio fue clonado utilizando Git, y se llevaron a cabo ajustes utilizando JetBrains Rider. Se crearon ramas específicas para estas modificaciones y, por último, se registraron los cambios mediante commits. Estos registros de cambios deben ser evaluados y revisados en el repositorio de GitHub.
+
+[![Captura-de-pantalla-2023-11-05-165504.png](https://i.postimg.cc/d13qszS2/Captura-de-pantalla-2023-11-05-165504.png)](https://postimg.cc/DJVV5Yh0)
+
+## 5.3.	Validation Interviews
+#### 5.3.1.	Diseño de Entrevistas
+1.	¿Qué componentes estás buscando comprar o intercambiar en nuestra plataforma?
+2.	¿Cómo describirías tu experiencia inicial al utilizar nuestra aplicación? ¿Fue fácil encontrar lo que estabas buscando?
+3.	¿Qué opinas de la interfaz de usuario de la aplicación? ¿Es fácil de usar y entender?
+4.	¿Has tenido alguna dificultad técnica o encontraste algún problema mientras navegabas por la aplicación?
+5.	¿Qué características o funcionalidades adicionales te gustaría ver en la aplicación?
+6.	¿Qué te parece la opción de intercambiar componentes para reducir el precio? ¿Lo consideras beneficioso?
+7.	¿Qué tipo de información sobre los componentes te gustaría ver en las descripciones de productos?
+8.	¿Cómo te enteraste de nuestra aplicación? ¿Qué piensas sobre nuestra estrategia de marketing y promoción?
+9.	¿Tienes alguna otra sugerencia o comentario que quieras compartir con nosotros?
+
+#### 5.3.2.	Registro de Entrevistas
+
+##### Entrevista 1:
+
+#### A cargo de: 
+Manuel Vargas
+#### Nombre del entrevistado: 
+Enrique Paredes
+#### Duración:
+5:38 
+#### Enlace: 
+https://youtu.be/0O0EHGVC4lE 
+#### Resumen:
+Mi experiencia inicial en la plataforma ha sido muy positiva. Encontré fácilmente los componentes que buscaba, y la interfaz de usuario me pareció sencilla y fácil de entender. No experimenté dificultades técnicas durante la navegación. Sin embargo, me gustaría que la aplicación incluyera una función que permitiera sugerir componentes que me gustaría que estuvieran disponibles. Considero que la opción de intercambiar componentes para reducir el precio es beneficiosa, ya que permite aprovechar componentes en buen estado para otros proyectos. Además, sería útil contar con información sobre la popularidad y demanda de los componentes en las descripciones de los productos. Conocí la aplicación a través de una recomendación en Internet y la considero innovadora. En resumen, mi experiencia ha sido buena, pero hay margen para mejoras, como la inclusión de una opción de sugerencia de componentes.
+
+[![Captura-de-pantalla-2023-11-05-133551.png](https://i.postimg.cc/c4w8Gn3s/Captura-de-pantalla-2023-11-05-133551.png)](https://postimg.cc/yk6NFWn5)
+
+##### Entrevista 2:
+#### A cargo de: 
+Mariela Martinez
+#### Nombre del entrevistado: 
+Damaris Tasayco
+#### Duración: 
+5:24 
+#### Enlace: 
+https://acortar.link/KD2p2e
+#### Resumen: 
+Según lo compartido por Damaris durante una entrevista, su experiencia navegando en nuestra aplicación se describe de la siguiente manera:
+Damaris destaca la intuición y efectividad de la aplicación, y muestra entusiasmo por nuestra propuesta de ofrecer descuentos en componentes en desuso, pero en buen estado. No obstante, señala que hay margen de mejora en la información relacionada con nuestros planes, sugiriendo una mayor claridad antes de iniciar sesión o registrarse.
+Tus comentarios son realmente valiosos para nosotros y nos inspiran a continuar mejorando. Estamos comprometidos en hacer que esta información sea más precisa y accesible desde el momento en que visites nuestra aplicación. Nuestro objetivo es seguir brindándote una experiencia mejorada en el futuro, y agradecemos la contribución de Damaris para ayudarnos en este camino.
+
+[![Captura-de-pantalla-2023-11-05-133612.png](https://i.postimg.cc/d0t7CNx1/Captura-de-pantalla-2023-11-05-133612.png)](https://postimg.cc/sMqDdmyd)
+
+#### 5.3.3.	Evaluaciones según heurísticas
+
+#### SITE o APP A EVALUAR: 
+XCOMPONENT
+
+##### TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1.	Inicio de sesión
+2.	Registro de nuevo usuario
+3.	Búsqueda de componentes
+4.	Detalles de producto
+5.	Agregar Items a un carrito
+6.	Navegación de usuario
+7.	Cerrar sesión
+8.	Gestionar una cuenta
+9.	Planes de suscripción
+10.	Estimación de nuevo precio según descuentos por intercambio
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1.	Eliminación de cuenta
+2.	Métodos de pago
+3.	Inicio de sesión con Google
+4.	Historial de compras
+
+#### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+<table>
+  <tr>
+    <th>Nivel</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release.</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+  </tr>
+</table>
+
+
+#### TABLA RESUMEN:
+
+<table>
+  <tr>
+    <th>#</th>
+    <th>Problema</th>
+    <th>Escala de Severidad</th>
+    <th>Heurística/Principio Violado(o)</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>En las tarjetas en el home, solo algunos productos cuentan con información adicional (modelo y fabricante) y otros no.</td>
+    <td>1</td>
+    <td>Information Architecture: Is it findable?</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Hay botones de “empieza ahora” en la sección de planes que no llevan a ningún lado.</td>
+    <td>3</td>
+    <td>Information Architecture: Is it usable?</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Al registrarse existen botones de aceptación de “Términos y Condiciones” y “Políticas de privacidad” que no redirigen a ningún lado.</td>
+    <td>3</td>
+    <td>Information Architecture: Is it usable?</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>El precio de un producto luego de aplicar el descuento no siempre se redondea.</td>
+    <td>2</td>
+    <td>Usability: Consistency and standards</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>No es posible añadir imágenes o información adicional para aplicar el descuento a un producto.</td>
+    <td>4</td>
+    <td>Usability: Consistency and standards</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>No hay uniformización de fuentes de texto usadas, por ejemplo (registro de usuario e inicio de sesión).</td>
+    <td>1</td>
+    <td>Usability: Aesthetic and minimalist design</td>
+  </tr>
+</table>
+
+### DESCRIPCIÓN DE PROBLEMAS SEGUN HEURÍSTICAS:
+
+#### PROBLEMA #1:DESCRIPCIÓN DE PROBLEMAS:
+
+PROBLEMA #1: En las tarjetas en el home, solo algunos productos cuentan con información adicional (modelo y fabricante) y otros no.
+Severidad: 1
+Heurística violada: Information Architecture: Is it findable?
+
+Problema: Al visualizar las tarjetas con la información de los componentes en la página principal (home) estas no todas poseen un contenido equivalente. Es decir, unas pueden incluir información del fabricante o el modelo y otras no. Aunque estas se deban visualizar al hacer click en “Detalles” según el producto.
+
+[![Captura-de-pantalla-2023-11-05-133633.png](https://i.postimg.cc/DyxmTPZ3/Captura-de-pantalla-2023-11-05-133633.png)](https://postimg.cc/9rqcPTZL)
+
+#### Recomendación:
+Uniformizar la información de los productos en las tarjetas. En todo caso hay dos opciones. La primera, que la información y el modelo de cada producto se muestran en las tarjetas. La segunda, reformular como se muestran estas tarjetas mencionadas para que sean parejas con las demás.
+
+PROBLEMA #2: Hay botones de “empieza ahora” en la sección de planes que no llevan a ningún lado
+Severidad: 3
+Heurística violada: Information Architecture: Is it usable?
+Problema: En la sección de “Planes” están descritas dos tarjetas, una con título “FREE” y otro con título “PREMIUM”, cada tarjeta tiene un botón de “Empieza ahora” en la parte inferior y estos no redirigen a ningún lado en caso se intente ingresar.
+
+[![Captura-de-pantalla-2023-11-05-133655.png](https://i.postimg.cc/3wvw2MZ3/Captura-de-pantalla-2023-11-05-133655.png)](https://postimg.cc/t19yHMfc)
+
+#### Recomendación: 
+Implementar el ruteo o en todo caso eliminarlo.
+
+PROBLEMA #3: Al registrarse existen botones de aceptación de “Términos y Condiciones” y “Políticas de privacidad” que no redirigen a ningún lado 
+Severidad: 3
+Heurística violada: Information Architecture: Is it usable?
+Problema: En el registro de un nuevo usuario, en la parte inferior, es requerido aceptar los “Términos y Condiciones” y “Políticas de privacidad” sin embargo estos no redirigen a ningún lado en caso se intente ingresar.
+
+[![Captura-de-pantalla-2023-11-05-133712.png](https://i.postimg.cc/pXrRDb23/Captura-de-pantalla-2023-11-05-133712.png)](https://postimg.cc/PNggj7vM)
+
+#### Recomendación:
+Implementar el ruteo o en todo caso eliminarlo.
+
+PROBLEMA #4: El precio de un producto luego de aplicar el descuento no siempre se redondea
+Severidad: 2
+Heurística violada: Usability: Consistencia y estándares
+Problema: Al ingresar un subproducto para realizar el descuento del producto a comprar, se aplica correctamente el descuento, sin embargo, el nuevo precio suele mostrarse con una gran cantidad de decimales.
+
+[![Captura-de-pantalla-2023-11-05-133731.png](https://i.postimg.cc/MTz8HgPP/Captura-de-pantalla-2023-11-05-133731.png)](https://postimg.cc/qtDFZDdy)
+
+#### Recomendación:
+Investigar el motivo de este problema y/o obtener asesoramiento sobre cómo solucionarlo.
+
+PROBLEMA #5: No es posible añadir imágenes o información adicional para aplicar el descuento a un producto
+Severidad: 4
+Heurística violada: Usability: Consistencia y estándares
+Problema:Al momento de agregar subproductos para realizar el descuento del producto que se desea comprar, no es posible añadir imágenes como evidencia de que efectivamente se tiene el producto y este se encuentra en buen estado. Es importante que se encuentre una solución dado que es una funcionalidad relevante.
+
+[![Captura-de-pantalla-2023-11-05-133749.png](https://i.postimg.cc/66jN6jdc/Captura-de-pantalla-2023-11-05-133749.png)](https://postimg.cc/kDbHfyYR)
+
+#### Recomendación:
+Implementar la funcionalidad de subir imágenes y/o obtener asesoramiento sobre cómo implementarlo correctamente.
+
+PROBLEMA #6: No hay uniformización de fuentes de texto usadas, por ejemplo (registro de usuario e inicio de sesión)
+Severidad: 1
+Heurística violada: Usability: Aesthetic and minimalist design….
+Problema: Las fuentes de texto en las páginas de “inicio de sesión” y “registro de nuevo cliente” no son las mismas por lo que se obtiene una descoordinación entre estas.
+
+[![Captura-de-pantalla-2023-11-05-133809.png](https://i.postimg.cc/SNHFCn1z/Captura-de-pantalla-2023-11-05-133809.png)](https://postimg.cc/rKGPLwk8)
+
+#### Recomendación:
+Emplear las mismas fuentes en ambas.
+
+### 5.4.	Video About-the-Product
+
+[![Captura-de-pantalla-2023-11-05-180401.png](https://i.postimg.cc/BQr0Kmm0/Captura-de-pantalla-2023-11-05-180401.png)](https://postimg.cc/xc3hr3rx)
+
+https://www.youtube.com/watch?v=iHzfQNIiC68
+
+
+## CONCLUSIONES
+
 •	Una de las conclusiones que podemos rescatar es que la correcta identificación de nuestro segmento objetivo fue de gran ayuda para enfocarnos principalmente en darle una experiencia satisfactoria al usar nuestro servicio.
 •	Dada la tecnología needfinding, fue posible determinar las necesidades y deseos de los usuarios. De este modo, se desarrolla una aplicación web que satisface los requerimientos del usuario.
 •	Este informe ha proporcionado una visión detallada de lo que será nuestra aplicación para comprar componentes y/o periféricos y que den como parte de pago un producto usado que será con un fin benéfico.
@@ -1422,21 +1912,17 @@ En el segundo Sprint, se emplearon herramientas como Visual Studio Code, GitHub 
 •	Prime Vue ofrece una variedad de componentes de interfaz de usuario personalizable y moderno, lo que mejora la usabilidad y estética de la aplicación a desarrollar.
 •	El desarrollo de XComponent proporciona una valiosa experiencia en el uso de tecnologías modernas. Esto puede contribuir al crecimiento profesional y al entrenamiento de habilidades del equipo de desarrollo.
 El desarrollo de esta aplicación representa una herramienta valiosa para los clientes que buscan adquirir componentes tecnológicos de forma asequible y que desean utilizar componentes en buen estado como método de pago. Para asegurar su éxito, es esencial llevar a cabo un proceso de desarrollo y una implementación meticulosa, respaldados por una estrategia de marketing efectiva para atraer a los usuarios. Con el enfoque correcto y una atención minuciosa a los detalles, esta aplicación tiene el potencial de simplificar en gran medida el proceso de compra y venta de componentes tecnológicos usados, beneficiando tanto a compradores como a vendedores.
+BIBLIOGRAFÍA
+•	Sustainable Cycles (SCTCLE) Programme. (2020).  The Global E-waste Monitor 2020- Quantitiesm flows, and the circular economy potential. Recuperado de: https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
+•	Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de: https://www.facebook.com/MinamPeru/posts/10156008189124973/ [Consulta: 27/08/2023]
+•	Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wp-content/uploads/2011/04/diagnostico-raee.pdf  [Consulta: 27/08/2023]
 
-
-# BIBLIOGRAFÍA
-- Sustainable Cycles (SCTCLE) Programme. (2020).  The Global E-waste Monitor 2020- Quantitiesm flows, and the circular economy potential. Recuperado de: https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
-- Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de: https://www.facebook.com/MinamPeru/posts/10156008189124973/ [Consulta: 27/08/2023]
-- Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wp-content/uploads/2011/04/diagnostico-raee.pdf  [Consulta: 27/08/2023]
-
-
-
-
-# ANEXOS
+## ANEXOS
 •	Enlace del despliegue, en github pages maybe https://appwep-grupo3.github.io/Grupo02/ 
 •	Enlace del repositorio de github https://github.com/AppWep-Grupo3/Grupo02 
 •	Enlace de nuestro Landing Page https://appwep-grupo3.github.io/Grupo02/ 
 •	Enlace de database Diagram https://my.vertabelo.com/doc/ctEW8pklxW1zLiGyIllUJvc88faqZdqC
 •	Enlace de Class Diagrams https://lucid.app/lucidchart/999fc1fb-dd5f-4d94-8a0e-89677467d5f8/edit?viewport_loc=972%2C411%2C2855%2C1087%2C0_0&invitationId=inv_a55de5ed-eae4-469b-92d0-d982fe85e10a
 •	Web Style Guidelines:  https://www.figma.com/file/O6WxMvh0wV159MV9VHNwbQ/Untitled?type=design&node-id=0-1&mode=design&t=DTikcpMaQQS8KLgC-0
+
 
