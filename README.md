@@ -2014,6 +2014,22 @@ https://www.youtube.com/watch?v=iHzfQNIiC68
     <td>Javier Sebastian</td>
     <td>Done</td>
   </tr>
+    <tr>
+    <td>US00</td>
+    <td>Realizar Comunicación entre frontend y backend</td>
+    <td>Realizar Refactorizar el frontend para realizar las operaciones necesarias en la integración con el backend</td>
+    <td>5</td>
+    <td>Anthony Avalos</td>
+    <td>Done</td>
+  </tr>
+    <tr>
+    <td>US00</td>
+    <td>Implementar JWT</td>
+    <td>Implementar la seguridad al backend</td>
+    <td>3</td>
+    <td>Anthony Avalos</td>
+    <td>Done</td>
+  </tr>
 </table>
 
 
@@ -2036,11 +2052,18 @@ https://www.youtube.com/watch?v=iHzfQNIiC68
     <td>19/11/23</td>
   </tr>
   <tr>
-    <td>feature/US11</td>
-    <td>611df39590a0f6a00d5d6241e04c2d1a16db97e7</td>
-    <td>fix: Update OrderComponent.vue</td>
-    <td>fix: Update OrderComponent.vue</td>
-    <td>18/11/23</td>
+    <td>develop</td>
+    <td>2ff59124fa9df828572cce0a17a3531836c92329</td>
+    <td>Update OrderController.cs</td>
+    <td> - </td>
+    <td>04/11/23</td>
+  </tr>
+    <tr>
+    <td>main</td>
+    <td>d0e94d81f2e71b4fbdb8bcaaa9d74a903957297d</td>
+    <td>Add JWT</td>
+    <td> - </td>
+    <td>17/11/23</td>
   </tr>
 </table>
 
@@ -2268,18 +2291,23 @@ El desarrollo de esta aplicación representa una herramienta valiosa para los cl
 
 # BIBLIOGRAFÍA
 
-Sustainable Cycles (SCTCLE) Programme. (2020).  The Global E-waste Monitor 2020- Quantitiesm flows, and the circular economy potential. Recuperado de: https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
+-	Bulgakova, O. S., Zosimov, V. V., & Popravkin, P. D. (2020). Storing JWT Token in Local Variables. Control systems & computers.Recuperado de: http://dspace.nbuv.gov.ua/handle/123456789/181236
+-	Dresher, T., Zuker, A., & Friedman, S. (2018). Hands-On Full-Stack Web Development with ASP. NET Core: Learn end-to-end web development with leading frontend frameworks, such as Angular, React, and Vue. Packt Publishing Ltd. Recuperado de: https://books.google.es/books?hl=es&lr=&id=Tel1DwAAQBAJ&oi=fnd&pg=PP1&dq=Backend+and+Frontend+application+asp+net+core+and+vue&ots=CGs7Dbtieg&sig=TuNlmtSpeVyOKFoyeEs6r2SJxnk#v=onepage&q=Backend%20and%20Frontend%20application%20asp%20net%20core%20and%20vue&f=false
+-	Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wp-content/uploads/2011/04/diagnostico-raee.pdf  [Consulta: 27/08/2023]
+-	Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de: https://www.facebook.com/MinamPeru/posts/10156008189124973/ [Consulta: 27/08/2023]
+-	Sustainable Cycles (SCTCLE) Programme. (2020).  The Global E-waste Monitor 2020- Quantitiesm flows, and the circular economy potential. Recuperado de: https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
+-	Y. Liu, Q. Lu, H. -Y. Paik, X. Xu, S. Chen and L. Zhu, "Design Pattern as a Service for Blockchain-Based Self-Sovereign Identity," in IEEE Software, vol. 37, no. 5, pp. 30-36, Sept.-Oct. 2020, doi: 10.1109/MS.2020.2992783.
 
-Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de: https://www.facebook.com/MinamPeru/posts/10156008189124973/ [Consulta: 27/08/2023]
-
-Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wp-content/uploads/2011/04/diagnostico-raee.pdf  [Consulta: 27/08/2023]
 
 
 # ANEXOS
-- Enlace del despliegue, en github pages maybe https://appwep-grupo3.github.io/Grupo02/
+- Enlace del despliegue, en github pages https://appwep-grupo3.github.io/Grupo02/
 - Enlace del repositorio de github https://github.com/AppWep-Grupo3/Grupo02
 - Enlace de nuestro Landing Page https://appwep-grupo3.github.io/Grupo02/
 - Enlace de database Diagram https://my.vertabelo.com/doc/ctEW8pklxW1zLiGyIllUJvc88faqZdqC
 - Enlace de Class Diagrams https://lucid.app/lucidchart/999fc1fb-dd5f-4d94-8a0e-89677467d5f8/edit?viewport_loc=972%2C411%2C2855%2C1087%2C0_0&invitationId=inv_a55de5ed-eae4-469b-92d0-d982fe85e10a
 - Web Style Guidelines:  https://www.figma.com/file/O6WxMvh0wV159MV9VHNwbQ/Untitled?type=design&node-id=0-1&mode=design&t=DTikcpMaQQS8KLgC-0
-- About-The-Team: https://youtu.be/FHZQVi2cmvs?si=AHBTFA5u0_OX93z7 
+- Video exposición TB1:  https://youtu.be/6SEKvJFTB6E
+- Video exposición TB2: https://youtu.be/FHZQVi2cmvs
+- Video about the team: https://youtu.be/HZSrXH26b1c
+- Video about the product: https://youtu.be/iHzfQNIiC68?si=7i1wdzNVxKp2L3d_
