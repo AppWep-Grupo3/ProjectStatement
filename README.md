@@ -1412,31 +1412,374 @@ En el segundo Sprint, se emplearon herramientas como Visual Studio Code, GitHub 
 [![Imagen8.png](https://i.postimg.cc/FzdY8HVJ/Imagen8.png)](https://postimg.cc/1VSRNPT9)
 
 
+### 5.2.4.	Sprint 4
+### 5.2.4.1.	Spring Planning 4
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 4</td>
+  </tr>
+  <tr>
+    <th>Sprint Planning Background</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <td>2023-11-14</td>
+  </tr>
+  <tr>
+    <th>Time</th>
+    <td>07:30 PM</td>
+  </tr>
+  <tr>
+    <th>Location</th>
+    <td>Virtual meeting - Google Meet</td>
+  </tr>
+  <tr>
+    <th>Prepared By</th>
+    <td>Anthony Avalos</td>
+  </tr>
+  <tr>
+    <th>Attendees (to planning meeting)</th>
+    <td>
+      <ul>
+        <li>Alexis Vargas Quispe</li>
+        <li>Anthony Avalos Santos</li>
+        <li>Giakomo Causso</li>
+        <li>Javier Sebastian</li>
+        <li>Mariela Martinez Carbajal</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <th>Sprint n-1 Review Summary</th>
+    <td>Se desarrollaron satisfactoriamente las tareas asignadas.</td>
+  </tr>
+  <tr>
+    <th>Sprint n-1 Retrospective Summary</th>
+    <td>Replantear los tiempos de entrega de avances.</td>
+  </tr>
+  <tr>
+    <th>Sprint Goal & User Stories</th>
+    <td></td>
+  </tr>
+  <tr>
+    <th>Sprint n Goal</th>
+    <td>Implementar las funcionalidades restantes dado las historias de usuario planteadas en el product backlog.</td>
+  </tr>
+  <tr>
+    <th>Sprint n Velocity</th>
+    <td>Los Story Points aceptados por el equipo en el presente Sprint son de 15.</td>
+  </tr>
+  <tr>
+    <th>Sum of Story Points</th>
+    <td>La suma de Story Points para el Sprint es de 15.</td>
+  </tr>
+</table>
+
+#### 5.2.4.2.	Sprint Backlog 4
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <td>Sprint 4</td>
+  </tr>
+  <tr>
+    <th>User Story</th>
+    <th>Work-Item / Task</th>
+    <th>Id</th>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Estimation (Hours)</th>
+    <th>Assigned To</th>
+    <th>Status (To do/In Process/To Review/Done)</th>
+  </tr>
+  <tr>
+    <td rowspan="2">US09</td>
+    <td>WT01</td>
+    <td>Implementar vista imágenes de subproductos</td>
+    <td>Implementar la vista que permita receptar las imágenes del producto a emplear como descuento</td>
+    <td>2</td>
+    <td>Mariela Martinez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>WT02</td>
+    <td>Implementar resúmenes de productos comprados</td>
+    <td>Implementar un resumen de los datos del producto que ya se haya realizado la compra</td>
+    <td>3</td>
+    <td>Javier Sebastian</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+
+#### 5.2.4.3.	Development Evidence for Sprint Review. 
+<table>
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commit Message Body</th>
+    <th>Committed on (Date)</th>
+  </tr>
+  <tr>
+    <td rowspan="2">https://github.com/AppWep-Grupo3/XComponent-Web.git</td>
+    <td>feature/US04</td>
+    <td>(falta)</td>
+    <td>fix: Update ….</td>
+    <td>fix: Update….</td>
+    <td>19/11/23</td>
+  </tr>
+  <tr>
+    <td>feature/US11</td>
+    <td>611df39590a0f6a00d5d6241e04c2d1a16db97e7</td>
+    <td>fix: Update OrderComponent.vue</td>
+    <td>fix: Update OrderComponent.vue</td>
+    <td>18/11/23</td>
+  </tr>
+</table>
+
+#### 5.2.4.4.	Testing Suite Evidence for Sprint Review. 
+En esta entrega, se comprobó que se realizó el testing de manera satisfactoria. 
+
+#### 5.2.4.5.	Execution Evidence for Sprint Review. 
+
+[![Captura-de-pantalla-2023-11-20-131807.png](https://i.postimg.cc/v8Pt6LK3/Captura-de-pantalla-2023-11-20-131807.png)](https://postimg.cc/mhHHvMBH)
+Enlace del video:  https://upcedupe.sharepoint.com/:v:/s/AplicacionesWeb851/Ec9h0QWvVfpOgRUZqdy-D8YB7sBmYjznq85ISfFAmP7mYQ?e=rpMDDV
+
+5.2.4.6.	Services Documentation Evidence for Sprint Review. 
+A continuación, se describen los alcances dados para el presente sprint. En primer lugar un breve resumen de los servicios alcanzados.
+Los métodos GET user con parámetro de id están relacionados a la pantalla de Login, para verificar que el usuario existe y su posterior validación.
+Asimismo, los métodos POST user están relacionados a la pantalla de Register User para registrar la información tanto del cliente como de la empresa.
+Los métodos asociados a order y order detail están relacionados a la funcionalidad del carrito una vez se concrete una solicitud de compra dado un producto que se requiera comprar y los subproductos que de ser posible se den como método de descuento.
+El método GET all productos, están relacionados a la pantalla de Búsqueda de Componentes (HomePage), donde el usuario puede ver, mediante tarjetas, el repertorio de componentes a la venta, y cuando le da click a una de esta tarjeta puede acceder a la información del componente en específico.
+Los métodos relacionados al subproducto, están relacionados con el evento de integrar subproductos como método de descuento para el precio de un producto original.
+Tabla:
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>HTTP</th>
+    <th>Acciones</th>
+    <th>Enlace</th>
+  </tr>
+  <!-- PRODUCTS -->
+  <tr>
+    <td>/api/v1/product</td>
+    <td>GET</td>
+    <td>200 OK: Retorna la lista de productos registrados</td>
+    <td><a href="http://localhost:5172/api/v1/product">http://localhost:5172/api/v1/product</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/product</td>
+    <td>POST</td>
+    <td>201 Created: Crea y retorna el producto que se ha creado exitosamente</td>
+    <td><a href="http://localhost:5172/api/v1/product">http://localhost:5172/api/v1/product</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/product/{id}</td>
+    <td>PUT</td>
+    <td>200 OK: Actualiza y retorna la información del producto correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/product/1">http://localhost:5172/api/v1/product/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/product/{id}</td>
+    <td>GET</td>
+    <td>200 OK: Retorna la lista de productos registrados con su respectivo ID</td>
+    <td><a href="http://localhost:5172/api/v1/product/1">http://localhost:5172/api/v1/product/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/product/{id}</td>
+    <td>DELETE</td>
+    <td>200 OK: Elimina y retorna la información del producto correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/product/1">http://localhost:5172/api/v1/product/1</a></td>
+  </tr>
+
+  <!-- USER -->
+  <tr>
+    <td>/api/v1/user</td>
+    <td>GET</td>
+    <td>200 OK: Retorna la lista de usuarios registrados</td>
+    <td><a href="http://localhost:5172/api/v1/user">http://localhost:5172/api/v1/user</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/user/find</td>
+    <td>GET</td>
+    <td>200 OK: Retorna un usuario registrado para el login</td>
+    <td><a href="http://localhost:5172/api/v1/user/find">http://localhost:5172/api/v1/user/find</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/user</td>
+    <td>POST</td>
+    <td>201 Created: Crea y retorna el usuario que se ha creado exitosamente</td>
+    <td><a href="http://localhost:5172/api/v1/user">http://localhost:5172/api/v1/user</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/user/{id}</td>
+    <td>PUT</td>
+    <td>200 OK: Actualiza y retorna la información del usuario correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/user/1">http://localhost:5172/api/v1/user/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/user/{id}</td>
+    <td>DELETE</td>
+    <td>200 OK: Elimina y retorna el usuario correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/user/1">http://localhost:5172/api/v1/user/1</a></td>
+  </tr>
+
+  <!-- ORDER -->
+  <tr>
+    <td>/api/v1/order</td>
+    <td>GET</td>
+    <td>200 OK: Retorna la lista de órdenes registradas</td>
+    <td><a href="http://localhost:5172/api/v1/order">http://localhost:5172/api/v1/order</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/order</td>
+    <td>POST</td>
+    <td>200 OK: Crea y retorna la orden creada exitosamente</td>
+    <td><a href="http://localhost:5172/api/v1/order">http://localhost:5172/api/v1/order</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/order/{id}</td>
+    <td>PUT</td>
+    <td>200 OK: Actualiza y retorna la orden correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/order/1">http://localhost:5172/api/v1/order/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/order/{id}</td>
+    <td>DELETE</td>
+    <td>200 OK: Elimina y retorna la orden correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/order/1">http://localhost:5172/api/v1/order/1</a></td>
+  </tr>
+
+  <!-- ORDERDETAIL -->
+  <tr>
+    <td>/api/v1/orderdetail</td>
+    <td>GET</td>
+    <td>200 OK: Retorna la lista de detalles de órdenes registrados</td>
+    <td><a href="http://localhost:5172/api/v1/orderdetail">http://localhost:5172/api/v1/orderdetail</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/orderdetail</td>
+    <td>POST</td>
+    <td>201 Created: Crea y retorna el detalle de orden que se ha creado exitosamente</td>
+    <td><a href="http://localhost:5172/api/v1/orderdetail">http://localhost:5172/api/v1/orderdetail</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/orderdetail/{id}</td>
+    <td>PUT</td>
+    <td>200 OK: Actualiza y retorna la información del detalle de orden correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/orderdetail/1">http://localhost:5172/api/v1/orderdetail/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/orderdetail/{id}</td>
+    <td>DELETE</td>
+    <td>200 OK: Elimina y retorna el detalle de orden correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/orderdetail/1">http://localhost:5172/api/v1/orderdetail/1</a></td>
+  </tr>
+
+  <!-- SUBPRODUCT -->
+  <tr>
+    <td>/api/v1/subproduct</td>
+    <td>GET</td>
+    <td>200 OK: Retorna la lista de subproductos registrados</td>
+    <td><a href="http://localhost:5172/api/v1/subproduct">http://localhost:5172/api/v1/subproduct</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/subproduct</td>
+    <td>POST</td>
+    <td>201 Created: Crea y retorna el subproducto que se ha creado exitosamente</td>
+    <td><a href="http://localhost:5172/api/v1/subproduct">http://localhost:5172/api/v1/subproduct</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/subproduct/{ProductId}</td>
+    <td>GET</td>
+    <td>200 OK: Retorna la lista de subproductos registrados dado un producto con ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/subproduct/1">http://localhost:5172/api/v1/subproduct/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/subproduct/{id}</td>
+    <td>PUT</td>
+    <td>200 OK: Actualiza y retorna el subproducto correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/subproduct/1">http://localhost:5172/api/v1/subproduct/1</a></td>
+  </tr>
+  <tr>
+    <td>/api/v1/subproduct/{id}</td>
+    <td>DELETE</td>
+    <td>200 OK: Elimina y retorna el subproducto correspondiente al ID especificado</td>
+    <td><a href="http://localhost:5172/api/v1/subproduct/1">http://localhost:5172/api/v1/subproduct/1</a></td>
+  </tr>
+</table>
+
+#### 5.2.4.7.	Software Deployment Evidence for Sprint Review. 
+[![Captura-de-pantalla-2023-11-20-130742.png](https://i.postimg.cc/GmfFSLRY/Captura-de-pantalla-2023-11-20-130742.png)](https://postimg.cc/CRjnRVzL)
+[![Captura-de-pantalla-2023-11-20-130256.png](https://i.postimg.cc/0QT75cjN/Captura-de-pantalla-2023-11-20-130256.png)](https://postimg.cc/hz0Xp89F)
+
+Deploy Web Application: Para el despliegue de nuestra aplicación web se usó Vercel como host para exponerla a los usuarios. Esta plataforma nos garantiza un despliegue seguro y eficiente. Esta aplicación se puede encontrar en el siguiente enlace: https://x-component-web.vercel.app/home
+
+[![Captura-de-pantalla-2023-11-20-130333.png](https://i.postimg.cc/gJXvPfY5/Captura-de-pantalla-2023-11-20-130333.png)](https://postimg.cc/2bYqQ9LF)
+
+Deploy Web Services: Para el despliegue de la API se usó la plataforma Render, la cual nos permite desplegar nuestra aplicación de forma gratuita. Pero solo usa ciertos lenguajes, es por eso que se dockerizo la aplicacion y asi exponer su imagen para su posterior despliegue: Esto nos permite tener un servicio web a la cual se puede acceder desde el siguiente enlace: https://xcomponentapirest.onrender.com/swagger/index.html
+
+[![Captura-de-pantalla-2023-11-20-130358.png](https://i.postimg.cc/MGryNW8V/Captura-de-pantalla-2023-11-20-130358.png)](https://postimg.cc/KKBkghj8)
+
+#### 5.2.4.8.	Team Collaboration Insights during Sprint.
+En el cuarto Sprint, se emplearon herramientas como WebStorm, GitHub Desktop, JetBrains Rider y Git para llevar a cabo los registros de cambios. Inicialmente, un miembro del equipo efectuó el primer registro de cambios con el fin de establecer el repositorio. Posteriormente, el repositorio fue clonado utilizando Git, y se llevaron a cabo ajustes utilizando JetBrains Rider. Se crearon ramas específicas para estas modificaciones y, por último, se registraron los cambios mediante commits. Estos registros de cambios deben ser evaluados y revisados en el repositorio de GitHub.
+
+[![Captura-de-pantalla-2023-11-20-131058.png](https://i.postimg.cc/3R8xXGqZ/Captura-de-pantalla-2023-11-20-131058.png)](https://postimg.cc/LqWSRJ2q)
+
+### 5.4.	Video About-the-Product
+El link de la presentación es el siguiente: https://youtu.be/iHzfQNIiC68?si=RjGfAHwvxCjWNiza
+
+[![Captura-de-pantalla-2023-11-20-131402.png](https://i.postimg.cc/RV7CDXzT/Captura-de-pantalla-2023-11-20-131402.png)](https://postimg.cc/56tMH5yH)
+
+
+
+
 # CONCLUSIONES
-•	Una de las conclusiones que podemos rescatar es que la correcta identificación de nuestro segmento objetivo fue de gran ayuda para enfocarnos principalmente en darle una experiencia satisfactoria al usar nuestro servicio.
-•	Dada la tecnología needfinding, fue posible determinar las necesidades y deseos de los usuarios. De este modo, se desarrolla una aplicación web que satisface los requerimientos del usuario.
-•	Este informe ha proporcionado una visión detallada de lo que será nuestra aplicación para comprar componentes y/o periféricos y que den como parte de pago un producto usado que será con un fin benéfico.
-•	El desarrollo del Landing Page fue de mucha ayuda para que los usuarios puedan conocer mucha más sobre nuestro startup y de la finalidad de nuestra aplicación, si como también de la funcionalidad que tiene, y que, además, esa página muestra el equipo de desarrollo, quiene tomaron esta gran iniciativa para contribuir a la educación de los estudiantes.
-•	La creación de un prototipo de alta fidelidad no permite ver la aplicación en su totalidad desde una perspectiva de un usuario consumidor, que además nos ayudó a mejorar. También, nos permitió recolectar comentarios de los usuarios entrevistados para poder realizar los cambios necesarios y ofrecer una mejor experiencia para los usuarios.
-•	La metodología de desarrollo realizada en sprints sugiere una estructura de proyecto ágil, lo que facilita la adaptación a los posibles cambios y permite al equipo de desarrollo mantener un ritmo constante y organizado.
-•	Prime Vue ofrece una variedad de componentes de interfaz de usuario personalizable y moderno, lo que mejora la usabilidad y estética de la aplicación a desarrollar.
-•	El desarrollo de XComponent proporciona una valiosa experiencia en el uso de tecnologías modernas. Esto puede contribuir al crecimiento profesional y al entrenamiento de habilidades del equipo de desarrollo.
+
+- Una de las conclusiones que podemos rescatar es que la correcta identificación de nuestro segmento objetivo fue de gran ayuda para enfocarnos principalmente en darle una experiencia satisfactoria al usar nuestro servicio.
+- Dada la tecnología needfinding, fue posible determinar las necesidades y deseos de los usuarios. De este modo, se desarrolla una aplicación web que satisface los requerimientos del usuario.
+- Este informe ha proporcionado una visión detallada de lo que será nuestra aplicación para comprar componentes y/o periféricos y que den como parte de pago un producto usado que será con un fin benéfico.
+- El desarrollo del Landing Page fue de mucha ayuda para que los usuarios puedan conocer mucha más sobre nuestro startup y de la finalidad de nuestra aplicación, si como también de la funcionalidad que tiene, y que, además, esa página muestra el equipo de desarrollo, quiene tomaron esta gran iniciativa para contribuir a la educación de los estudiantes.
+- La creación de un prototipo de alta fidelidad no permite ver la aplicación en su totalidad desde una perspectiva de un usuario consumidor, que además nos ayudó a mejorar. También, nos permitió recolectar comentarios de los usuarios entrevistados para poder realizar los cambios necesarios y ofrecer una mejor experiencia para los usuarios.
+- La metodología de desarrollo realizada en sprints sugiere una estructura de proyecto ágil, lo que facilita la adaptación a los posibles cambios y permite al equipo de desarrollo mantener un ritmo constante y organizado.
+- Prime Vue ofrece una variedad de componentes de interfaz de usuario personalizable y moderno, lo que mejora la usabilidad y estética de la aplicación a desarrollar.
+- El desarrollo de XComponent proporciona una valiosa experiencia en el uso de tecnologías modernas. Esto puede contribuir al crecimiento profesional y al entrenamiento de habilidades del equipo de desarrollo.
+- La investigación de necesidades y deseos de los usuarios, así como la retroalimentación continua de los mismos, desempeñaron un papel crucial en el desarrollo de la aplicación, lo que permitió crear una solución que verdaderamente se adapta a las expectativas y requisitos de los usuarios.
+- La inclusión de un Landing Page efectivo no solo mejoró la visibilidad y comprensión del startup y su aplicación, sino que también transmitió la misión benéfica detrás del intercambio de productos usados, lo que puede ayudar a generar empatía y apoyo por parte de los usuarios y otros stakeholders.
+- La utilización de una metodología de desarrollo ágil en forma de sprints permitió al equipo de desarrollo mantener una mayor flexibilidad y adaptación a las necesidades cambiantes del proyecto, lo que contribuyó a la eficiencia y al cumplimiento de plazos.
+- La elección de Prime Vue como marco de desarrollo de interfaz de usuario ofrece ventajas significativas en términos de personalización y modernidad, lo que puede diferenciar la aplicación y atraer a los usuarios con una experiencia visual atractiva y amigable.
+- El uso de XComponent en el desarrollo proporciona a los miembros del equipo de desarrollo una oportunidad valiosa para adquirir experiencia en tecnologías modernas, lo que puede beneficiar su crecimiento profesional y su conjunto de habilidades.
+En general, estas conclusiones resaltan la importancia de la investigación de usuarios, la comunicación efectiva de la misión del startup, la agilidad en el desarrollo, la elección de herramientas y tecnologías adecuadas, y el enfoque en el crecimiento y desarrollo del equipo como factores clave en el éxito del proyecto.
+
 El desarrollo de esta aplicación representa una herramienta valiosa para los clientes que buscan adquirir componentes tecnológicos de forma asequible y que desean utilizar componentes en buen estado como método de pago. Para asegurar su éxito, es esencial llevar a cabo un proceso de desarrollo y una implementación meticulosa, respaldados por una estrategia de marketing efectiva para atraer a los usuarios. Con el enfoque correcto y una atención minuciosa a los detalles, esta aplicación tiene el potencial de simplificar en gran medida el proceso de compra y venta de componentes tecnológicos usados, beneficiando tanto a compradores como a vendedores.
 
 
+
+
+
+
 # BIBLIOGRAFÍA
-- Sustainable Cycles (SCTCLE) Programme. (2020).  The Global E-waste Monitor 2020- Quantitiesm flows, and the circular economy potential. Recuperado de: https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
-- Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de: https://www.facebook.com/MinamPeru/posts/10156008189124973/ [Consulta: 27/08/2023]
-- Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wp-content/uploads/2011/04/diagnostico-raee.pdf  [Consulta: 27/08/2023]
 
+Sustainable Cycles (SCTCLE) Programme. (2020).  The Global E-waste Monitor 2020- Quantitiesm flows, and the circular economy potential. Recuperado de: https://ewastemonitor.info/gem-2020/ [Consulta: 27/08/2023]
 
+Ministerio del Ambiente. (2017). Gestion responsable de los RAEE. Recuperado de: https://www.facebook.com/MinamPeru/posts/10156008189124973/ [Consulta: 27/08/2023]
+
+Espinoza, O, et.al (2011). Diagnóstico del Manejo de los Residuos Electrónicos en el Perú. Recuperado de: https://www.cooperacionsuiza.pe/wp-content/uploads/2011/04/diagnostico-raee.pdf  [Consulta: 27/08/2023]
 
 
 # ANEXOS
-•	Enlace del despliegue, en github pages maybe https://appwep-grupo3.github.io/Grupo02/ 
-•	Enlace del repositorio de github https://github.com/AppWep-Grupo3/Grupo02 
-•	Enlace de nuestro Landing Page https://appwep-grupo3.github.io/Grupo02/ 
-•	Enlace de database Diagram https://my.vertabelo.com/doc/ctEW8pklxW1zLiGyIllUJvc88faqZdqC
-•	Enlace de Class Diagrams https://lucid.app/lucidchart/999fc1fb-dd5f-4d94-8a0e-89677467d5f8/edit?viewport_loc=972%2C411%2C2855%2C1087%2C0_0&invitationId=inv_a55de5ed-eae4-469b-92d0-d982fe85e10a
-•	Web Style Guidelines:  https://www.figma.com/file/O6WxMvh0wV159MV9VHNwbQ/Untitled?type=design&node-id=0-1&mode=design&t=DTikcpMaQQS8KLgC-0
+- Enlace del despliegue, en github pages maybe https://appwep-grupo3.github.io/Grupo02/
+- Enlace del repositorio de github https://github.com/AppWep-Grupo3/Grupo02
+- Enlace de nuestro Landing Page https://appwep-grupo3.github.io/Grupo02/
+- Enlace de database Diagram https://my.vertabelo.com/doc/ctEW8pklxW1zLiGyIllUJvc88faqZdqC
+- Enlace de Class Diagrams https://lucid.app/lucidchart/999fc1fb-dd5f-4d94-8a0e-89677467d5f8/edit?viewport_loc=972%2C411%2C2855%2C1087%2C0_0&invitationId=inv_a55de5ed-eae4-469b-92d0-d982fe85e10a
+- Web Style Guidelines:  https://www.figma.com/file/O6WxMvh0wV159MV9VHNwbQ/Untitled?type=design&node-id=0-1&mode=design&t=DTikcpMaQQS8KLgC-0
+- About-The-Team: https://youtu.be/FHZQVi2cmvs?si=AHBTFA5u0_OX93z7 
+
+
 
