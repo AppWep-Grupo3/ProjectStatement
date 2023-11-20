@@ -2044,12 +2044,19 @@ https://www.youtube.com/watch?v=iHzfQNIiC68
     <th>Committed on (Date)</th>
   </tr>
   <tr>
-    <td rowspan="2">https://github.com/AppWep-Grupo3/XComponent-Web.git</td>
+    <td rowspan="4">https://github.com/AppWep-Grupo3/XComponent-Web.git</td>
     <td>feature/US04</td>
-    <td>(falta)</td>
-    <td>fix: Update ….</td>
-    <td>fix: Update….</td>
+    <td>d62d4805f4d2f10de44d8bd74d91fe1d6c131996</td>
+    <td>fix: Update</td>
+    <td>fix: Update</td>
     <td>19/11/23</td>
+  </tr>
+    <tr>
+    <td>feature/US11</td>
+    <td>611df39590a0f6a00d5d6241e04c2d1a16db97e7</td>
+    <td>fix: Update OrderComponent.vue</td>
+    <td> fix: Update OrderComponent.vue </td>
+    <td>18/11/23</td>
   </tr>
   <tr>
     <td>develop</td>
