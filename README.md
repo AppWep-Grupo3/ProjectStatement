@@ -75,7 +75,16 @@ Tasayco, Javier Sebastian
       - Sprint 3
     </td>
   </tr>
+  <tr>
+    <td>TF</td>
+    <td>18/11/2023</td>
+    <td>Todo el grupo</td>
+    <td>
+      - Sprint 4
+    </td>
+  </tr>
 </table>
+
 
 
 
@@ -188,6 +197,16 @@ Link de repositorio Github: https://github.com/AppWep-Grupo3/Grupo02
 - 5.3.1.	Diseño de Entrevistas	
 - 5.3.2.	Registro de Entrevistas	
 - 5.3.3.	Evaluaciones según heurísticas	
+- 5.4.	Video About-the-Product
+- 5.2.4.	Sprint 4	
+- 5.2.4.1.	Spring Planning 4	
+- 5.2.4.2.	Sprint Backlog 4	
+- 5.2.4.3.	Development Evidence for Sprint Review.	
+- 5.2.4.4.	Testing Suite Evidence for Sprint Review.	
+- 5.2.4.5.	Execution Evidence for Sprint Review.	
+- 5.2.4.6.	Services Documentation Evidence for Sprint Review.	
+- 5.2.4.7.	Software Deployment Evidence for Sprint Review.	
+- 5.2.4.8.	Team Collaboration Insights during Sprint.	
 - 5.4.	Video About-the-Product	
 - CONCLUSIONES	
 - BIBLIOGRAFÍA	
@@ -207,8 +226,10 @@ En el siguiente cuadro se describe las acciones realizadas y enunciados de
 conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
 del ABET – EAC - Student Outcome 5.
 
-[![Criterio-espec-fico-page-0001.jpg](https://i.postimg.cc/VLsnnFHd/Criterio-espec-fico-page-0001.jpg)](https://postimg.cc/Z0gWh6mS)
-[![Criterio-espec-fico-page-0002.jpg](https://i.postimg.cc/vZcnSZyy/Criterio-espec-fico-page-0002.jpg)](https://postimg.cc/QFZVFsVY)
+[![Captura-de-pantalla-2023-11-20-134647.png](https://i.postimg.cc/CM7y9tQJ/Captura-de-pantalla-2023-11-20-134647.png)](https://postimg.cc/JtsdkTmB)
+[![Captura-de-pantalla-2023-11-20-134721.png](https://i.postimg.cc/RV0rmdrm/Captura-de-pantalla-2023-11-20-134721.png)](https://postimg.cc/4nj2bzN2)
+[![Captura-de-pantalla-2023-11-20-134749.png](https://i.postimg.cc/tJ2LPZx8/Captura-de-pantalla-2023-11-20-134749.png)](https://postimg.cc/hQQyRGM0)
+
 ---
 # Capitulo 1 : Introducción  
 ## 1.1 Startup profile  
